@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<list>
+	<project name="51job" thread=5 test="false" />
+<!-- 	<project name="zhaopin" thread=5 test="false" />
+	<project name="yingcai" thread=1 test="false" /> -->
+</list>
+<solr path="http://localhost:8080/solr/spider">

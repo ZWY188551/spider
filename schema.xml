@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema project="51job">
+<job>
+	<field name="name" tagname="td" attr={"class":"sr_bt"} />
+	<field name="company" tagname="a" attr={"style":"font-size:14px;font-weight:bold;color:#000000;"} />
+	<field name="location" tagname="td" attr={"class":"txt_2"} num=1 />
+	<field name="last_modified" tagname="td" attr={"class":"txt_2"} num=0 />
+	<field name="payment" tagname="td" attr={"class":"txt_2"} num=5 />
+	<field name="recruitment" tagname="td" attr={"class":"txt_2"} num=2 />
+	<field name="welfare" tagname="td" attr={"class":"sr_bt"} />
+	<field name="experience" tagname="td" attr={"class":"txt_2"} num=3 />
+	<field name="address" between={"址：":"&lt;"} />
+	<field name="require" between={"要求":["&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;","&lt;/div&gt;&lt;/td&gt;"],"资格":"&lt;/div&gt;&lt;/td&gt;"} />
+	<field name="description" between={"职责":["比比","&lt;br&gt;&lt;br&gt;","&lt;/div&gt;&lt;/td&gt;"],"岗位描述":"&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;","描述:":"&lt;/div&gt;&lt;/td&gt;"} />
+</job>
+<company>
+	<field name="name" tagname="td" attr={"class":"sr_bt"}>
+		<sub between={"&gt;":"&lt;a"} />
+	</field>
+	<field name="industry" between={"公司行业":"&lt;br&gt;&lt;br&gt;&lt;strong&gt;"} />
+	<field name="kind" between={"公司性质":"&lt;br&gt;&lt;br&gt;&lt;strong&gt;"} />
+	<field name="scale" between={"公司规模":"&lt;/td&gt;&lt;/tr&gt;"} />
+	<field name="address" between={"址：":"&lt;"} />
+	<field name="addcode" between={"邮政编码":"&lt;"} />
+	<field name="description" tagname="p" attr={"class":"txt_font"} />
+</company>
+</schema>
+
+<!-- <schema project="zhaopin">
+<job>
+	<field name="name" tagname="td" attr={"class":"sr_bt"} />
+	<field name="kind" tagname="a" attr={"style":"font-size:14px;font-weight:bold;color:#000000;"} />
+	<field name="location" tagname="td" attr={"class":"txt_2"} num=1 />
+	<field name="last_modified" tagname="td" attr={"class":"txt_2"} num=0 />
+	<field name="payment" tagname="td" attr={"class":"txt_2"} num=5 />
+	<field name="recruitment" tagname="td" attr={"class":"txt_2"} num=2 />
+	<field name="welfare" tagname="td" attr={"class":"sr_bt"} />
+	<field name="experience" tagname="td" attr={"class":"txt_2"} num=3 />
+	<field name="address" between={"址：":"&lt;br&gt;"} />
+	<field name="require" between={"要求&lt;br&gt;":"&lt;/div&gt;&lt;/td&gt;","资格&lt;br&gt;":"&lt;/div&gt;&lt;/td&gt;"} />
+	<field name="description" between={"职责&lt;br&gt;":"&lt;br&gt;&lt;br&gt;"} />
+</job>
+<company>
+	<field name="name" tagname="td" attr={"class":"sr_bt"} />
+	<field name="company" tagname="a" attr={"style":"font-size:14px;font-weight:bold;color:#000000;"} />
+	<field name="location" tagname="td" attr={"class":"txt_2"} num=1 />
+	<field name="last_modified" tagname="td" attr={"class":"txt_2"} num=0 />
+	<field name="payment" tagname="td" attr={"class":"txt_2"} num=5 />
+	<field name="recruitment" tagname="td" attr={"class":"txt_2"} num=2 />
+	<field name="welfare" tagname="td" attr={"class":"sr_bt"} />
+	<field name="experience" tagname="td" attr={"class":"txt_2"} num=3 />
+	<field name="address" between={"址：":"&lt;br&gt;"} />
+	<field name="require" between={"任职要求&lt;br&gt;":"&lt;/div&gt;&lt;/td&gt;"} />
+	<field name="description" between={"工作职责&lt;br&gt;":"&lt;br&gt;&lt;br&gt;"} />
+</company>
+</schema>
+
+<schema project="yingcai">
+<job>
+	<field name="name" tagname="td" attr={"class":"sr_bt"} />
+	<field name="company" tagname="a" attr={"style":"font-size:14px;font-weight:bold;color:#000000;"} />
+	<field name="location" tagname="td" attr={"class":"txt_2"} num=1 />
+	<field name="last_modified" tagname="td" attr={"class":"txt_2"} num=0 />
+	<field name="payment" tagname="td" attr={"class":"txt_2"} num=5 />
+	<field name="recruitment" tagname="td" attr={"class":"txt_2"} num=2 />
+	<field name="welfare" tagname="td" attr={"class":"sr_bt"} />
+	<field name="experience" tagname="td" attr={"class":"txt_2"} num=3 />
+	<field name="address" between={"址：":"&lt;br&gt;"} />
+	<field name="require" between={"要求&lt;br&gt;":"&lt;/div&gt;&lt;/td&gt;","资格&lt;br&gt;":"&lt;/div&gt;&lt;/td&gt;"} />
+	<field name="description" between={"职责&lt;br&gt;":"&lt;br&gt;&lt;br&gt;"} />
+</job>
+<company>
+	<field name="name" tagname="td" attr={"class":"sr_bt"} />
+	<field name="company" tagname="a" attr={"style":"font-size:14px;font-weight:bold;color:#000000;"} />
+	<field name="location" tagname="td" attr={"class":"txt_2"} num=1 />
+	<field name="last_modified" tagname="td" attr={"class":"txt_2"} num=0 />
+	<field name="payment" tagname="td" attr={"class":"txt_2"} num=5 />
+	<field name="recruitment" tagname="td" attr={"class":"txt_2"} num=2 />
+	<field name="welfare" tagname="td" attr={"class":"sr_bt"} />
+	<field name="experience" tagname="td" attr={"class":"txt_2"} num=3 />
+	<field name="address" between={"址：":"&lt;br&gt;"} />
+	<field name="require" between={"任职要求&lt;br&gt;":"&lt;/div&gt;&lt;/td&gt;"} />
+	<field name="description" between={"工作职责&lt;br&gt;":"&lt;br&gt;&lt;br&gt;"} />
+</company>
+</schema> -->

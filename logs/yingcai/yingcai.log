@@ -1,0 +1,841 @@
+2014-11-25 17:37:41,625 - yingcai - INFO - auto: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:37:41,625 - yingcai - WARNING - BEGIN USING ATUO generator!
+2014-11-25 17:37:41,625 - yingcai - INFO - enter: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:37:41,671 - yingcai - WARNING - URL: http://www.chinahr.com/shanghai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,671 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:37:41,671 - yingcai - INFO - enter: http://www.chinahr.com/beijing/jobs/10000/
+2014-11-25 17:37:41,703 - yingcai - WARNING - URL: http://www.chinahr.com/beijing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,703 - yingcai - WARNING - fail: 2 | Stime: 3.0
+2014-11-25 17:37:41,703 - yingcai - INFO - enter: http://www.chinahr.com/tianjin/jobs/10000/
+2014-11-25 17:37:41,717 - yingcai - WARNING - URL: http://www.chinahr.com/tianjin/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,717 - yingcai - WARNING - fail: 3 | Stime: 3.0
+2014-11-25 17:37:41,733 - yingcai - INFO - enter: http://www.chinahr.com/quanguo/jobs/10000/
+2014-11-25 17:37:41,750 - yingcai - WARNING - URL: http://www.chinahr.com/quanguo/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,765 - yingcai - WARNING - fail: 4 | Stime: 3.0
+2014-11-25 17:37:41,765 - yingcai - INFO - enter: http://www.chinahr.com/hefei/jobs/10000/
+2014-11-25 17:37:41,796 - yingcai - WARNING - URL: http://www.chinahr.com/hefei/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,796 - yingcai - WARNING - fail: 5 | Stime: 3.0
+2014-11-25 17:37:41,796 - yingcai - INFO - enter: http://www.chinahr.com/wuhu/jobs/10000/
+2014-11-25 17:37:41,828 - yingcai - WARNING - URL: http://www.chinahr.com/wuhu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,828 - yingcai - WARNING - fail: 6 | Stime: 3.0
+2014-11-25 17:37:41,828 - yingcai - INFO - enter: http://www.chinahr.com/anqing/jobs/10000/
+2014-11-25 17:37:41,858 - yingcai - WARNING - URL: http://www.chinahr.com/anqing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,858 - yingcai - WARNING - fail: 7 | Stime: 3.0
+2014-11-25 17:37:41,858 - yingcai - INFO - enter: http://www.chinahr.com/bengbu/jobs/10000/
+2014-11-25 17:37:41,890 - yingcai - WARNING - URL: http://www.chinahr.com/bengbu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,890 - yingcai - WARNING - fail: 8 | Stime: 3.0
+2014-11-25 17:37:41,890 - yingcai - INFO - enter: http://www.chinahr.com/tongling/jobs/10000/
+2014-11-25 17:37:41,921 - yingcai - WARNING - URL: http://www.chinahr.com/tongling/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,921 - yingcai - WARNING - fail: 9 | Stime: 3.0
+2014-11-25 17:37:41,921 - yingcai - INFO - enter: http://www.chinahr.com/luan/jobs/10000/
+2014-11-25 17:37:41,953 - yingcai - WARNING - URL: http://www.chinahr.com/luan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:41,953 - yingcai - WARNING - fail: 10 | Stime: 3.0
+2014-11-25 17:37:41,953 - yingcai - INFO - enter: http://www.chinahr.com/chaohu/jobs/10000/
+2014-11-25 17:37:42,000 - yingcai - WARNING - URL: http://www.chinahr.com/chaohu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,000 - yingcai - WARNING - fail: 11 | Stime: 3.0
+2014-11-25 17:37:42,000 - yingcai - INFO - enter: http://www.chinahr.com/chuzhou/jobs/10000/
+2014-11-25 17:37:42,030 - yingcai - WARNING - URL: http://www.chinahr.com/chuzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,030 - yingcai - WARNING - fail: 12 | Stime: 3.0
+2014-11-25 17:37:42,030 - yingcai - INFO - enter: http://www.chinahr.com/huainan/jobs/10000/
+2014-11-25 17:37:42,062 - yingcai - WARNING - URL: http://www.chinahr.com/huainan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,062 - yingcai - WARNING - fail: 13 | Stime: 3.0
+2014-11-25 17:37:42,062 - yingcai - INFO - enter: http://www.chinahr.com/maanshan/jobs/10000/
+2014-11-25 17:37:42,092 - yingcai - WARNING - URL: http://www.chinahr.com/maanshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,092 - yingcai - WARNING - fail: 14 | Stime: 3.0
+2014-11-25 17:37:42,092 - yingcai - INFO - enter: http://www.chinahr.com/fujian/jobs/10000/
+2014-11-25 17:37:42,140 - yingcai - WARNING - URL: http://www.chinahr.com/fujian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,140 - yingcai - WARNING - fail: 15 | Stime: 3.0
+2014-11-25 17:37:42,140 - yingcai - INFO - enter: http://www.chinahr.com/fuzhou/jobs/10000/
+2014-11-25 17:37:42,171 - yingcai - WARNING - URL: http://www.chinahr.com/fuzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,171 - yingcai - WARNING - fail: 16 | Stime: 3.0
+2014-11-25 17:37:42,171 - yingcai - INFO - enter: http://www.chinahr.com/xiamen/jobs/10000/
+2014-11-25 17:37:42,203 - yingcai - WARNING - URL: http://www.chinahr.com/xiamen/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,203 - yingcai - WARNING - fail: 17 | Stime: 3.0
+2014-11-25 17:37:42,203 - yingcai - INFO - enter: http://www.chinahr.com/longyan/jobs/10000/
+2014-11-25 17:37:42,233 - yingcai - WARNING - URL: http://www.chinahr.com/longyan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,233 - yingcai - WARNING - fail: 18 | Stime: 3.0
+2014-11-25 17:37:42,250 - yingcai - INFO - enter: http://www.chinahr.com/nanping/jobs/10000/
+2014-11-25 17:37:42,265 - yingcai - WARNING - URL: http://www.chinahr.com/nanping/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,265 - yingcai - WARNING - fail: 19 | Stime: 3.0
+2014-11-25 17:37:42,265 - yingcai - INFO - enter: http://www.chinahr.com/quanzhou/jobs/10000/
+2014-11-25 17:37:42,296 - yingcai - WARNING - URL: http://www.chinahr.com/quanzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,296 - yingcai - WARNING - fail: 20 | Stime: 3.0
+2014-11-25 17:37:42,296 - yingcai - INFO - enter: http://www.chinahr.com/sanming/jobs/10000/
+2014-11-25 17:37:42,342 - yingcai - WARNING - URL: http://www.chinahr.com/sanming/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,342 - yingcai - WARNING - fail: 21 | Stime: 3.0
+2014-11-25 17:37:42,342 - yingcai - INFO - enter: http://www.chinahr.com/zhangzhou/jobs/10000/
+2014-11-25 17:37:42,390 - yingcai - WARNING - URL: http://www.chinahr.com/zhangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,405 - yingcai - WARNING - fail: 22 | Stime: 3.0
+2014-11-25 17:37:42,405 - yingcai - INFO - enter: http://www.chinahr.com/ningde/jobs/10000/
+2014-11-25 17:37:42,437 - yingcai - WARNING - URL: http://www.chinahr.com/ningde/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,437 - yingcai - WARNING - fail: 23 | Stime: 3.0
+2014-11-25 17:37:42,437 - yingcai - INFO - enter: http://www.chinahr.com/guangxi/jobs/10000/
+2014-11-25 17:37:42,467 - yingcai - WARNING - URL: http://www.chinahr.com/guangxi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,467 - yingcai - WARNING - fail: 24 | Stime: 3.0
+2014-11-25 17:37:42,467 - yingcai - INFO - enter: http://www.chinahr.com/nanning/jobs/10000/
+2014-11-25 17:37:42,500 - yingcai - WARNING - URL: http://www.chinahr.com/nanning/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,500 - yingcai - WARNING - fail: 25 | Stime: 3.0
+2014-11-25 17:37:42,500 - yingcai - INFO - enter: http://www.chinahr.com/guangzhou/jobs/10000/
+2014-11-25 17:37:42,546 - yingcai - WARNING - URL: http://www.chinahr.com/guangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,546 - yingcai - WARNING - fail: 26 | Stime: 3.0
+2014-11-25 17:37:42,546 - yingcai - INFO - enter: http://www.chinahr.com/huizhou/jobs/10000/
+2014-11-25 17:37:42,578 - yingcai - WARNING - URL: http://www.chinahr.com/huizhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,578 - yingcai - WARNING - fail: 27 | Stime: 3.0
+2014-11-25 17:37:42,578 - yingcai - INFO - enter: http://www.chinahr.com/shantou/jobs/10000/
+2014-11-25 17:37:42,608 - yingcai - WARNING - URL: http://www.chinahr.com/shantou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,608 - yingcai - WARNING - fail: 28 | Stime: 3.0
+2014-11-25 17:37:42,608 - yingcai - INFO - enter: http://www.chinahr.com/zhongshan/jobs/10000/
+2014-11-25 17:37:42,640 - yingcai - WARNING - URL: http://www.chinahr.com/zhongshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,640 - yingcai - WARNING - fail: 29 | Stime: 3.0
+2014-11-25 17:37:42,640 - yingcai - INFO - enter: http://www.chinahr.com/foshan/jobs/10000/
+2014-11-25 17:37:42,671 - yingcai - WARNING - URL: http://www.chinahr.com/foshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,671 - yingcai - WARNING - fail: 30 | Stime: 3.0
+2014-11-25 17:37:42,671 - yingcai - INFO - enter: http://www.chinahr.com/shenzhen/jobs/10000/
+2014-11-25 17:37:42,703 - yingcai - WARNING - URL: http://www.chinahr.com/shenzhen/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,703 - yingcai - WARNING - fail: 31 | Stime: 3.0
+2014-11-25 17:37:42,703 - yingcai - INFO - enter: http://www.chinahr.com/zhuhai/jobs/10000/
+2014-11-25 17:37:42,733 - yingcai - WARNING - URL: http://www.chinahr.com/zhuhai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,733 - yingcai - WARNING - fail: 32 | Stime: 3.0
+2014-11-25 17:37:42,733 - yingcai - INFO - enter: http://www.chinahr.com/jiangmen/jobs/10000/
+2014-11-25 17:37:42,765 - yingcai - WARNING - URL: http://www.chinahr.com/jiangmen/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,765 - yingcai - WARNING - fail: 33 | Stime: 3.0
+2014-11-25 17:37:42,765 - yingcai - INFO - enter: http://www.chinahr.com/dongguan/jobs/10000/
+2014-11-25 17:37:42,796 - yingcai - WARNING - URL: http://www.chinahr.com/dongguan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,796 - yingcai - WARNING - fail: 34 | Stime: 3.0
+2014-11-25 17:37:42,796 - yingcai - INFO - enter: http://www.chinahr.com/shanwei/jobs/10000/
+2014-11-25 17:37:42,828 - yingcai - WARNING - URL: http://www.chinahr.com/shanwei/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,842 - yingcai - WARNING - fail: 35 | Stime: 3.0
+2014-11-25 17:37:42,842 - yingcai - INFO - enter: http://www.chinahr.com/jieyang/jobs/10000/
+2014-11-25 17:37:42,875 - yingcai - WARNING - URL: http://www.chinahr.com/jieyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,875 - yingcai - WARNING - fail: 36 | Stime: 3.0
+2014-11-25 17:37:42,875 - yingcai - INFO - enter: http://www.chinahr.com/meizhou/jobs/10000/
+2014-11-25 17:37:42,905 - yingcai - WARNING - URL: http://www.chinahr.com/meizhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,905 - yingcai - WARNING - fail: 37 | Stime: 3.0
+2014-11-25 17:37:42,905 - yingcai - INFO - enter: http://www.chinahr.com/yangjiang/jobs/10000/
+2014-11-25 17:37:42,937 - yingcai - WARNING - URL: http://www.chinahr.com/yangjiang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,937 - yingcai - WARNING - fail: 38 | Stime: 3.0
+2014-11-25 17:37:42,937 - yingcai - INFO - enter: http://www.chinahr.com/zhaoqing/jobs/10000/
+2014-11-25 17:37:42,967 - yingcai - WARNING - URL: http://www.chinahr.com/zhaoqing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:42,967 - yingcai - WARNING - fail: 39 | Stime: 3.0
+2014-11-25 17:37:42,967 - yingcai - INFO - enter: http://www.chinahr.com/zhusanjiao/jobs/10000/
+2014-11-25 17:37:43,000 - yingcai - WARNING - URL: http://www.chinahr.com/zhusanjiao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,000 - yingcai - WARNING - fail: 40 | Stime: 3.0
+2014-11-25 17:37:43,000 - yingcai - INFO - enter: http://www.chinahr.com/lanzhou/jobs/10000/
+2014-11-25 17:37:43,030 - yingcai - WARNING - URL: http://www.chinahr.com/lanzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,030 - yingcai - WARNING - fail: 41 | Stime: 3.0
+2014-11-25 17:37:43,030 - yingcai - INFO - enter: http://www.chinahr.com/guiyang/jobs/10000/
+2014-11-25 17:37:43,078 - yingcai - WARNING - URL: http://www.chinahr.com/guiyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,078 - yingcai - WARNING - fail: 42 | Stime: 3.0
+2014-11-25 17:37:43,078 - yingcai - INFO - enter: http://www.chinahr.com/haikou/jobs/10000/
+2014-11-25 17:37:43,108 - yingcai - WARNING - URL: http://www.chinahr.com/haikou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,108 - yingcai - WARNING - fail: 43 | Stime: 3.0
+2014-11-25 17:37:43,108 - yingcai - INFO - enter: http://www.chinahr.com/sanya/jobs/10000/
+2014-11-25 17:37:43,125 - yingcai - WARNING - URL: http://www.chinahr.com/sanya/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,140 - yingcai - WARNING - fail: 44 | Stime: 3.0
+2014-11-25 17:37:43,140 - yingcai - INFO - enter: http://www.chinahr.com/hebei/jobs/10000/
+2014-11-25 17:37:43,171 - yingcai - WARNING - URL: http://www.chinahr.com/hebei/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,171 - yingcai - WARNING - fail: 45 | Stime: 3.0
+2014-11-25 17:37:43,171 - yingcai - INFO - enter: http://www.chinahr.com/shijiazhuang/jobs/10000/
+2014-11-25 17:37:43,203 - yingcai - WARNING - URL: http://www.chinahr.com/shijiazhuang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,203 - yingcai - WARNING - fail: 46 | Stime: 3.0
+2014-11-25 17:37:43,203 - yingcai - INFO - enter: http://www.chinahr.com/baoding/jobs/10000/
+2014-11-25 17:37:43,233 - yingcai - WARNING - URL: http://www.chinahr.com/baoding/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,233 - yingcai - WARNING - fail: 47 | Stime: 3.0
+2014-11-25 17:37:43,233 - yingcai - INFO - enter: http://www.chinahr.com/cangzhou/jobs/10000/
+2014-11-25 17:37:43,265 - yingcai - WARNING - URL: http://www.chinahr.com/cangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,265 - yingcai - WARNING - fail: 48 | Stime: 3.0
+2014-11-25 17:37:43,265 - yingcai - INFO - enter: http://www.chinahr.com/chengde/jobs/10000/
+2014-11-25 17:37:43,312 - yingcai - WARNING - URL: http://www.chinahr.com/chengde/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,312 - yingcai - WARNING - fail: 49 | Stime: 3.0
+2014-11-25 17:37:43,312 - yingcai - INFO - enter: http://www.chinahr.com/handan/jobs/10000/
+2014-11-25 17:37:43,328 - yingcai - WARNING - URL: http://www.chinahr.com/handan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,342 - yingcai - WARNING - fail: 50 | Stime: 3.0
+2014-11-25 17:37:43,342 - yingcai - INFO - enter: http://www.chinahr.com/qinhuangdao/jobs/10000/
+2014-11-25 17:37:43,375 - yingcai - WARNING - URL: http://www.chinahr.com/qinhuangdao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,375 - yingcai - WARNING - fail: 51 | Stime: 3.0
+2014-11-25 17:37:43,375 - yingcai - INFO - enter: http://www.chinahr.com/tangshan/jobs/10000/
+2014-11-25 17:37:43,405 - yingcai - WARNING - URL: http://www.chinahr.com/tangshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,405 - yingcai - WARNING - fail: 52 | Stime: 3.0
+2014-11-25 17:37:43,421 - yingcai - INFO - enter: http://www.chinahr.com/xingtai/jobs/10000/
+2014-11-25 17:37:43,437 - yingcai - WARNING - URL: http://www.chinahr.com/xingtai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,437 - yingcai - WARNING - fail: 53 | Stime: 3.0
+2014-11-25 17:37:43,437 - yingcai - INFO - enter: http://www.chinahr.com/langfang/jobs/10000/
+2014-11-25 17:37:43,483 - yingcai - WARNING - URL: http://www.chinahr.com/langfang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,483 - yingcai - WARNING - fail: 54 | Stime: 3.0
+2014-11-25 17:37:43,483 - yingcai - INFO - enter: http://www.chinahr.com/hengshui/jobs/10000/
+2014-11-25 17:37:43,515 - yingcai - WARNING - URL: http://www.chinahr.com/hengshui/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,515 - yingcai - WARNING - fail: 55 | Stime: 3.0
+2014-11-25 17:37:43,515 - yingcai - INFO - enter: http://www.chinahr.com/haerbin/jobs/10000/
+2014-11-25 17:37:43,546 - yingcai - WARNING - URL: http://www.chinahr.com/haerbin/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,546 - yingcai - WARNING - fail: 56 | Stime: 3.0
+2014-11-25 17:37:43,562 - yingcai - INFO - enter: http://www.chinahr.com/zhengzhou/jobs/10000/
+2014-11-25 17:37:43,592 - yingcai - WARNING - URL: http://www.chinahr.com/zhengzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,592 - yingcai - WARNING - fail: 57 | Stime: 3.0
+2014-11-25 17:37:43,592 - yingcai - INFO - enter: http://www.chinahr.com/luoyang/jobs/10000/
+2014-11-25 17:37:43,625 - yingcai - WARNING - URL: http://www.chinahr.com/luoyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,625 - yingcai - WARNING - fail: 58 | Stime: 3.0
+2014-11-25 17:37:43,625 - yingcai - INFO - enter: http://www.chinahr.com/pingdingshan/jobs/10000/
+2014-11-25 17:37:43,655 - yingcai - WARNING - URL: http://www.chinahr.com/pingdingshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,655 - yingcai - WARNING - fail: 59 | Stime: 3.0
+2014-11-25 17:37:43,655 - yingcai - INFO - enter: http://www.chinahr.com/wuhan/jobs/10000/
+2014-11-25 17:37:43,703 - yingcai - WARNING - URL: http://www.chinahr.com/wuhan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,703 - yingcai - WARNING - fail: 60 | Stime: 3.0
+2014-11-25 17:37:43,703 - yingcai - INFO - enter: http://www.chinahr.com/jingzhou/jobs/10000/
+2014-11-25 17:37:43,733 - yingcai - WARNING - URL: http://www.chinahr.com/jingzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,733 - yingcai - WARNING - fail: 61 | Stime: 3.0
+2014-11-25 17:37:43,733 - yingcai - INFO - enter: http://www.chinahr.com/xiangyang/jobs/10000/
+2014-11-25 17:37:43,765 - yingcai - WARNING - URL: http://www.chinahr.com/xiangyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,765 - yingcai - WARNING - fail: 62 | Stime: 3.0
+2014-11-25 17:37:43,765 - yingcai - INFO - enter: http://www.chinahr.com/changsha/jobs/10000/
+2014-11-25 17:37:43,796 - yingcai - WARNING - URL: http://www.chinahr.com/changsha/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,796 - yingcai - WARNING - fail: 63 | Stime: 3.0
+2014-11-25 17:37:43,812 - yingcai - INFO - enter: http://www.chinahr.com/changde/jobs/10000/
+2014-11-25 17:37:43,842 - yingcai - WARNING - URL: http://www.chinahr.com/changde/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,842 - yingcai - WARNING - fail: 64 | Stime: 3.0
+2014-11-25 17:37:43,842 - yingcai - INFO - enter: http://www.chinahr.com/zhuzhou/jobs/10000/
+2014-11-25 17:37:43,875 - yingcai - WARNING - URL: http://www.chinahr.com/zhuzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,875 - yingcai - WARNING - fail: 65 | Stime: 3.0
+2014-11-25 17:37:43,875 - yingcai - INFO - enter: http://www.chinahr.com/nanchang/jobs/10000/
+2014-11-25 17:37:43,921 - yingcai - WARNING - URL: http://www.chinahr.com/nanchang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,921 - yingcai - WARNING - fail: 66 | Stime: 3.0
+2014-11-25 17:37:43,921 - yingcai - INFO - enter: http://www.chinahr.com/nanjing/jobs/10000/
+2014-11-25 17:37:43,953 - yingcai - WARNING - URL: http://www.chinahr.com/nanjing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,953 - yingcai - WARNING - fail: 67 | Stime: 3.0
+2014-11-25 17:37:43,953 - yingcai - INFO - enter: http://www.chinahr.com/suzhou/jobs/10000/
+2014-11-25 17:37:43,983 - yingcai - WARNING - URL: http://www.chinahr.com/suzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:43,983 - yingcai - WARNING - fail: 68 | Stime: 3.0
+2014-11-25 17:37:43,983 - yingcai - INFO - enter: http://www.chinahr.com/wuxi/jobs/10000/
+2014-11-25 17:37:44,015 - yingcai - WARNING - URL: http://www.chinahr.com/wuxi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,015 - yingcai - WARNING - fail: 69 | Stime: 3.0
+2014-11-25 17:37:44,030 - yingcai - INFO - enter: http://www.chinahr.com/changzhou/jobs/10000/
+2014-11-25 17:37:44,062 - yingcai - WARNING - URL: http://www.chinahr.com/changzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,062 - yingcai - WARNING - fail: 70 | Stime: 3.0
+2014-11-25 17:37:44,062 - yingcai - INFO - enter: http://www.chinahr.com/changchun/jobs/10000/
+2014-11-25 17:37:44,092 - yingcai - WARNING - URL: http://www.chinahr.com/changchun/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,092 - yingcai - WARNING - fail: 71 | Stime: 3.0
+2014-11-25 17:37:44,108 - yingcai - INFO - enter: http://www.chinahr.com/shenyang/jobs/10000/
+2014-11-25 17:37:44,140 - yingcai - WARNING - URL: http://www.chinahr.com/shenyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,140 - yingcai - WARNING - fail: 72 | Stime: 3.0
+2014-11-25 17:37:44,140 - yingcai - INFO - enter: http://www.chinahr.com/jinzhou/jobs/10000/
+2014-11-25 17:37:44,171 - yingcai - WARNING - URL: http://www.chinahr.com/jinzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,171 - yingcai - WARNING - fail: 73 | Stime: 3.0
+2014-11-25 17:37:44,187 - yingcai - INFO - enter: http://www.chinahr.com/dalian/jobs/10000/
+2014-11-25 17:37:44,217 - yingcai - WARNING - URL: http://www.chinahr.com/dalian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,217 - yingcai - WARNING - fail: 74 | Stime: 3.0
+2014-11-25 17:37:44,217 - yingcai - INFO - enter: http://www.chinahr.com/huhehaote/jobs/10000/
+2014-11-25 17:37:44,250 - yingcai - WARNING - URL: http://www.chinahr.com/huhehaote/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,250 - yingcai - WARNING - fail: 75 | Stime: 3.0
+2014-11-25 17:37:44,250 - yingcai - INFO - enter: http://www.chinahr.com/baotou/jobs/10000/
+2014-11-25 17:37:44,280 - yingcai - WARNING - URL: http://www.chinahr.com/baotou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,280 - yingcai - WARNING - fail: 76 | Stime: 3.0
+2014-11-25 17:37:44,280 - yingcai - INFO - enter: http://www.chinahr.com/eerduosi/jobs/10000/
+2014-11-25 17:37:44,312 - yingcai - WARNING - URL: http://www.chinahr.com/eerduosi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,328 - yingcai - WARNING - fail: 77 | Stime: 3.0
+2014-11-25 17:37:44,328 - yingcai - INFO - enter: http://www.chinahr.com/yinchuan/jobs/10000/
+2014-11-25 17:37:44,358 - yingcai - WARNING - URL: http://www.chinahr.com/yinchuan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,358 - yingcai - WARNING - fail: 78 | Stime: 3.0
+2014-11-25 17:37:44,358 - yingcai - INFO - enter: http://www.chinahr.com/xining/jobs/10000/
+2014-11-25 17:37:44,390 - yingcai - WARNING - URL: http://www.chinahr.com/xining/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,390 - yingcai - WARNING - fail: 79 | Stime: 3.0
+2014-11-25 17:37:44,390 - yingcai - INFO - enter: http://www.chinahr.com/shandong/jobs/10000/
+2014-11-25 17:37:44,421 - yingcai - WARNING - URL: http://www.chinahr.com/shandong/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,421 - yingcai - WARNING - fail: 80 | Stime: 3.0
+2014-11-25 17:37:44,421 - yingcai - INFO - enter: http://www.chinahr.com/jinan/jobs/10000/
+2014-11-25 17:37:44,467 - yingcai - WARNING - URL: http://www.chinahr.com/jinan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,467 - yingcai - WARNING - fail: 81 | Stime: 3.0
+2014-11-25 17:37:44,467 - yingcai - INFO - enter: http://www.chinahr.com/dezhou/jobs/10000/
+2014-11-25 17:37:44,500 - yingcai - WARNING - URL: http://www.chinahr.com/dezhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,500 - yingcai - WARNING - fail: 82 | Stime: 3.0
+2014-11-25 17:37:44,500 - yingcai - INFO - enter: http://www.chinahr.com/dongying/jobs/10000/
+2014-11-25 17:37:44,530 - yingcai - WARNING - URL: http://www.chinahr.com/dongying/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,530 - yingcai - WARNING - fail: 83 | Stime: 3.0
+2014-11-25 17:37:44,530 - yingcai - INFO - enter: http://www.chinahr.com/liaocheng/jobs/10000/
+2014-11-25 17:37:44,562 - yingcai - WARNING - URL: http://www.chinahr.com/liaocheng/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,562 - yingcai - WARNING - fail: 84 | Stime: 3.0
+2014-11-25 17:37:44,562 - yingcai - INFO - enter: http://www.chinahr.com/linyi/jobs/10000/
+2014-11-25 17:37:44,592 - yingcai - WARNING - URL: http://www.chinahr.com/linyi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,592 - yingcai - WARNING - fail: 85 | Stime: 3.0
+2014-11-25 17:37:44,592 - yingcai - INFO - enter: http://www.chinahr.com/taian/jobs/10000/
+2014-11-25 17:37:44,640 - yingcai - WARNING - URL: http://www.chinahr.com/taian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,640 - yingcai - WARNING - fail: 86 | Stime: 3.0
+2014-11-25 17:37:44,640 - yingcai - INFO - enter: http://www.chinahr.com/weihai/jobs/10000/
+2014-11-25 17:37:44,671 - yingcai - WARNING - URL: http://www.chinahr.com/weihai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,671 - yingcai - WARNING - fail: 87 | Stime: 3.0
+2014-11-25 17:37:44,671 - yingcai - INFO - enter: http://www.chinahr.com/zibo/jobs/10000/
+2014-11-25 17:37:44,703 - yingcai - WARNING - URL: http://www.chinahr.com/zibo/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,703 - yingcai - WARNING - fail: 88 | Stime: 3.0
+2014-11-25 17:37:44,703 - yingcai - INFO - enter: http://www.chinahr.com/weifang/jobs/10000/
+2014-11-25 17:37:44,733 - yingcai - WARNING - URL: http://www.chinahr.com/weifang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,733 - yingcai - WARNING - fail: 89 | Stime: 3.0
+2014-11-25 17:37:44,733 - yingcai - INFO - enter: http://www.chinahr.com/yantai/jobs/10000/
+2014-11-25 17:37:44,780 - yingcai - WARNING - URL: http://www.chinahr.com/yantai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,780 - yingcai - WARNING - fail: 90 | Stime: 3.0
+2014-11-25 17:37:44,780 - yingcai - INFO - enter: http://www.chinahr.com/qingdao/jobs/10000/
+2014-11-25 17:37:44,812 - yingcai - WARNING - URL: http://www.chinahr.com/qingdao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,812 - yingcai - WARNING - fail: 91 | Stime: 3.0
+2014-11-25 17:37:44,812 - yingcai - INFO - enter: http://www.chinahr.com/jining/jobs/10000/
+2014-11-25 17:37:44,858 - yingcai - WARNING - URL: http://www.chinahr.com/jining/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,858 - yingcai - WARNING - fail: 92 | Stime: 3.0
+2014-11-25 17:37:44,858 - yingcai - INFO - enter: http://www.chinahr.com/rizhao/jobs/10000/
+2014-11-25 17:37:44,890 - yingcai - WARNING - URL: http://www.chinahr.com/rizhao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,890 - yingcai - WARNING - fail: 93 | Stime: 3.0
+2014-11-25 17:37:44,890 - yingcai - INFO - enter: http://www.chinahr.com/binzhou/jobs/10000/
+2014-11-25 17:37:44,921 - yingcai - WARNING - URL: http://www.chinahr.com/binzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,937 - yingcai - WARNING - fail: 94 | Stime: 3.0
+2014-11-25 17:37:44,937 - yingcai - INFO - enter: http://www.chinahr.com/zaozhuang/jobs/10000/
+2014-11-25 17:37:44,967 - yingcai - WARNING - URL: http://www.chinahr.com/zaozhuang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:44,967 - yingcai - WARNING - fail: 95 | Stime: 3.0
+2014-11-25 17:37:44,967 - yingcai - INFO - enter: http://www.chinahr.com/heze/jobs/10000/
+2014-11-25 17:37:45,000 - yingcai - WARNING - URL: http://www.chinahr.com/heze/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,000 - yingcai - WARNING - fail: 96 | Stime: 3.0
+2014-11-25 17:37:45,000 - yingcai - INFO - enter: http://www.chinahr.com/taiyuan/jobs/10000/
+2014-11-25 17:37:45,030 - yingcai - WARNING - URL: http://www.chinahr.com/taiyuan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,030 - yingcai - WARNING - fail: 97 | Stime: 3.0
+2014-11-25 17:37:45,030 - yingcai - INFO - enter: http://www.chinahr.com/datong/jobs/10000/
+2014-11-25 17:37:45,078 - yingcai - WARNING - URL: http://www.chinahr.com/datong/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,078 - yingcai - WARNING - fail: 98 | Stime: 3.0
+2014-11-25 17:37:45,078 - yingcai - INFO - enter: http://www.chinahr.com/yuncheng/jobs/10000/
+2014-11-25 17:37:45,108 - yingcai - WARNING - URL: http://www.chinahr.com/yuncheng/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,108 - yingcai - WARNING - fail: 99 | Stime: 3.0
+2014-11-25 17:37:45,108 - yingcai - INFO - enter: http://www.chinahr.com/xian/jobs/10000/
+2014-11-25 17:37:45,155 - yingcai - WARNING - URL: http://www.chinahr.com/xian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,155 - yingcai - WARNING - fail: 100 | Stime: 3.0
+2014-11-25 17:37:45,155 - yingcai - INFO - enter: http://www.chinahr.com/chengdu/jobs/10000/
+2014-11-25 17:37:45,187 - yingcai - WARNING - URL: http://www.chinahr.com/chengdu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,187 - yingcai - WARNING - fail: 101 | Stime: 3.0
+2014-11-25 17:37:45,187 - yingcai - INFO - enter: http://www.chinahr.com/leshan/jobs/10000/
+2014-11-25 17:37:45,217 - yingcai - WARNING - URL: http://www.chinahr.com/leshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,217 - yingcai - WARNING - fail: 102 | Stime: 3.0
+2014-11-25 17:37:45,217 - yingcai - INFO - enter: http://www.chinahr.com/mianyang/jobs/10000/
+2014-11-25 17:37:45,265 - yingcai - WARNING - URL: http://www.chinahr.com/mianyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,265 - yingcai - WARNING - fail: 103 | Stime: 3.0
+2014-11-25 17:37:45,265 - yingcai - INFO - enter: http://www.chinahr.com/nanchong/jobs/10000/
+2014-11-25 17:37:45,296 - yingcai - WARNING - URL: http://www.chinahr.com/nanchong/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,296 - yingcai - WARNING - fail: 104 | Stime: 3.0
+2014-11-25 17:37:45,296 - yingcai - INFO - enter: http://www.chinahr.com/luzhou/jobs/10000/
+2014-11-25 17:37:45,328 - yingcai - WARNING - URL: http://www.chinahr.com/luzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,328 - yingcai - WARNING - fail: 105 | Stime: 3.0
+2014-11-25 17:37:45,328 - yingcai - INFO - enter: http://www.chinahr.com/dazhou/jobs/10000/
+2014-11-25 17:37:45,375 - yingcai - WARNING - URL: http://www.chinahr.com/dazhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,375 - yingcai - WARNING - fail: 106 | Stime: 3.0
+2014-11-25 17:37:45,375 - yingcai - INFO - enter: http://www.chinahr.com/yibin/jobs/10000/
+2014-11-25 17:37:45,405 - yingcai - WARNING - URL: http://www.chinahr.com/yibin/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,405 - yingcai - WARNING - fail: 107 | Stime: 3.0
+2014-11-25 17:37:45,405 - yingcai - INFO - enter: http://www.chinahr.com/deyang/jobs/10000/
+2014-11-25 17:37:45,437 - yingcai - WARNING - URL: http://www.chinahr.com/deyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,437 - yingcai - WARNING - fail: 108 | Stime: 3.0
+2014-11-25 17:37:45,437 - yingcai - INFO - enter: http://www.chinahr.com/lasa/jobs/10000/
+2014-11-25 17:37:45,483 - yingcai - WARNING - URL: http://www.chinahr.com/lasa/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,483 - yingcai - WARNING - fail: 109 | Stime: 3.0
+2014-11-25 17:37:45,483 - yingcai - INFO - enter: http://www.chinahr.com/wulumuqi/jobs/10000/
+2014-11-25 17:37:45,500 - yingcai - WARNING - URL: http://www.chinahr.com/wulumuqi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,500 - yingcai - WARNING - fail: 110 | Stime: 3.0
+2014-11-25 17:37:45,500 - yingcai - INFO - enter: http://www.chinahr.com/kunming/jobs/10000/
+2014-11-25 17:37:45,546 - yingcai - WARNING - URL: http://www.chinahr.com/kunming/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,546 - yingcai - WARNING - fail: 111 | Stime: 3.0
+2014-11-25 17:37:45,546 - yingcai - INFO - enter: http://www.chinahr.com/hangzhou/jobs/10000/
+2014-11-25 17:37:45,578 - yingcai - WARNING - URL: http://www.chinahr.com/hangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,578 - yingcai - WARNING - fail: 112 | Stime: 3.0
+2014-11-25 17:37:45,578 - yingcai - INFO - enter: http://www.chinahr.com/lishui/jobs/10000/
+2014-11-25 17:37:45,608 - yingcai - WARNING - URL: http://www.chinahr.com/lishui/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,608 - yingcai - WARNING - fail: 113 | Stime: 3.0
+2014-11-25 17:37:45,608 - yingcai - INFO - enter: http://www.chinahr.com/jinhua/jobs/10000/
+2014-11-25 17:37:45,640 - yingcai - WARNING - URL: http://www.chinahr.com/jinhua/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,640 - yingcai - WARNING - fail: 114 | Stime: 3.0
+2014-11-25 17:37:45,640 - yingcai - INFO - enter: http://www.chinahr.com/ningbo/jobs/10000/
+2014-11-25 17:37:45,671 - yingcai - WARNING - URL: http://www.chinahr.com/ningbo/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,671 - yingcai - WARNING - fail: 115 | Stime: 3.0
+2014-11-25 17:37:45,671 - yingcai - INFO - enter: http://www.chinahr.com/shaoxing/jobs/10000/
+2014-11-25 17:37:45,703 - yingcai - WARNING - URL: http://www.chinahr.com/shaoxing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,703 - yingcai - WARNING - fail: 116 | Stime: 3.0
+2014-11-25 17:37:45,703 - yingcai - INFO - enter: http://www.chinahr.com/wenzhou/jobs/10000/
+2014-11-25 17:37:45,750 - yingcai - WARNING - URL: http://www.chinahr.com/wenzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,750 - yingcai - WARNING - fail: 117 | Stime: 3.0
+2014-11-25 17:37:45,750 - yingcai - INFO - enter: http://www.chinahr.com/jiaxing/jobs/10000/
+2014-11-25 17:37:45,780 - yingcai - WARNING - URL: http://www.chinahr.com/jiaxing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,780 - yingcai - WARNING - fail: 118 | Stime: 3.0
+2014-11-25 17:37:45,780 - yingcai - INFO - enter: http://www.chinahr.com/huzhou/jobs/10000/
+2014-11-25 17:37:45,812 - yingcai - WARNING - URL: http://www.chinahr.com/huzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:37:45,812 - yingcai - WARNING - fail: 119 | Stime: 3.0
+2014-11-25 17:49:13,078 - yingcai - INFO - auto: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:49:13,078 - yingcai - WARNING - BEGIN USING ATUO generator!
+2014-11-25 17:49:13,078 - yingcai - INFO - enter: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:49:13,108 - yingcai - WARNING - URL: http://www.chinahr.com/shanghai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,108 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:49:13,108 - yingcai - INFO - enter: http://www.chinahr.com/beijing/jobs/10000/
+2014-11-25 17:49:13,140 - yingcai - WARNING - URL: http://www.chinahr.com/beijing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,140 - yingcai - WARNING - fail: 2 | Stime: 3.0
+2014-11-25 17:49:13,140 - yingcai - INFO - enter: http://www.chinahr.com/tianjin/jobs/10000/
+2014-11-25 17:49:13,171 - yingcai - WARNING - URL: http://www.chinahr.com/tianjin/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,187 - yingcai - WARNING - fail: 3 | Stime: 3.0
+2014-11-25 17:49:13,187 - yingcai - INFO - enter: http://www.chinahr.com/quanguo/jobs/10000/
+2014-11-25 17:49:13,217 - yingcai - WARNING - URL: http://www.chinahr.com/quanguo/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,217 - yingcai - WARNING - fail: 4 | Stime: 3.0
+2014-11-25 17:49:13,217 - yingcai - INFO - enter: http://www.chinahr.com/hefei/jobs/10000/
+2014-11-25 17:49:13,250 - yingcai - WARNING - URL: http://www.chinahr.com/hefei/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,250 - yingcai - WARNING - fail: 5 | Stime: 3.0
+2014-11-25 17:49:13,250 - yingcai - INFO - enter: http://www.chinahr.com/wuhu/jobs/10000/
+2014-11-25 17:49:13,280 - yingcai - WARNING - URL: http://www.chinahr.com/wuhu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,280 - yingcai - WARNING - fail: 6 | Stime: 3.0
+2014-11-25 17:49:13,280 - yingcai - INFO - enter: http://www.chinahr.com/anqing/jobs/10000/
+2014-11-25 17:49:13,312 - yingcai - WARNING - URL: http://www.chinahr.com/anqing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,312 - yingcai - WARNING - fail: 7 | Stime: 3.0
+2014-11-25 17:49:13,312 - yingcai - INFO - enter: http://www.chinahr.com/bengbu/jobs/10000/
+2014-11-25 17:49:13,342 - yingcai - WARNING - URL: http://www.chinahr.com/bengbu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,342 - yingcai - WARNING - fail: 8 | Stime: 3.0
+2014-11-25 17:49:13,342 - yingcai - INFO - enter: http://www.chinahr.com/tongling/jobs/10000/
+2014-11-25 17:49:13,375 - yingcai - WARNING - URL: http://www.chinahr.com/tongling/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,375 - yingcai - WARNING - fail: 9 | Stime: 3.0
+2014-11-25 17:49:13,375 - yingcai - INFO - enter: http://www.chinahr.com/luan/jobs/10000/
+2014-11-25 17:49:13,405 - yingcai - WARNING - URL: http://www.chinahr.com/luan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,405 - yingcai - WARNING - fail: 10 | Stime: 3.0
+2014-11-25 17:49:13,405 - yingcai - INFO - enter: http://www.chinahr.com/chaohu/jobs/10000/
+2014-11-25 17:49:13,453 - yingcai - WARNING - URL: http://www.chinahr.com/chaohu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,453 - yingcai - WARNING - fail: 11 | Stime: 3.0
+2014-11-25 17:49:13,453 - yingcai - INFO - enter: http://www.chinahr.com/chuzhou/jobs/10000/
+2014-11-25 17:49:13,483 - yingcai - WARNING - URL: http://www.chinahr.com/chuzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,483 - yingcai - WARNING - fail: 12 | Stime: 3.0
+2014-11-25 17:49:13,483 - yingcai - INFO - enter: http://www.chinahr.com/huainan/jobs/10000/
+2014-11-25 17:49:13,515 - yingcai - WARNING - URL: http://www.chinahr.com/huainan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,515 - yingcai - WARNING - fail: 13 | Stime: 3.0
+2014-11-25 17:49:13,515 - yingcai - INFO - enter: http://www.chinahr.com/maanshan/jobs/10000/
+2014-11-25 17:49:13,530 - yingcai - WARNING - URL: http://www.chinahr.com/maanshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,546 - yingcai - WARNING - fail: 14 | Stime: 3.0
+2014-11-25 17:49:13,546 - yingcai - INFO - enter: http://www.chinahr.com/fujian/jobs/10000/
+2014-11-25 17:49:13,578 - yingcai - WARNING - URL: http://www.chinahr.com/fujian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,578 - yingcai - WARNING - fail: 15 | Stime: 3.0
+2014-11-25 17:49:13,578 - yingcai - INFO - enter: http://www.chinahr.com/fuzhou/jobs/10000/
+2014-11-25 17:49:13,608 - yingcai - WARNING - URL: http://www.chinahr.com/fuzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,608 - yingcai - WARNING - fail: 16 | Stime: 3.0
+2014-11-25 17:49:13,608 - yingcai - INFO - enter: http://www.chinahr.com/xiamen/jobs/10000/
+2014-11-25 17:49:13,640 - yingcai - WARNING - URL: http://www.chinahr.com/xiamen/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,640 - yingcai - WARNING - fail: 17 | Stime: 3.0
+2014-11-25 17:49:13,640 - yingcai - INFO - enter: http://www.chinahr.com/longyan/jobs/10000/
+2014-11-25 17:49:13,687 - yingcai - WARNING - URL: http://www.chinahr.com/longyan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,687 - yingcai - WARNING - fail: 18 | Stime: 3.0
+2014-11-25 17:49:13,687 - yingcai - INFO - enter: http://www.chinahr.com/nanping/jobs/10000/
+2014-11-25 17:49:13,717 - yingcai - WARNING - URL: http://www.chinahr.com/nanping/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,717 - yingcai - WARNING - fail: 19 | Stime: 3.0
+2014-11-25 17:49:13,717 - yingcai - INFO - enter: http://www.chinahr.com/quanzhou/jobs/10000/
+2014-11-25 17:49:13,750 - yingcai - WARNING - URL: http://www.chinahr.com/quanzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,750 - yingcai - WARNING - fail: 20 | Stime: 3.0
+2014-11-25 17:49:13,750 - yingcai - INFO - enter: http://www.chinahr.com/sanming/jobs/10000/
+2014-11-25 17:49:13,780 - yingcai - WARNING - URL: http://www.chinahr.com/sanming/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,780 - yingcai - WARNING - fail: 21 | Stime: 3.0
+2014-11-25 17:49:13,796 - yingcai - INFO - enter: http://www.chinahr.com/zhangzhou/jobs/10000/
+2014-11-25 17:49:13,828 - yingcai - WARNING - URL: http://www.chinahr.com/zhangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,828 - yingcai - WARNING - fail: 22 | Stime: 3.0
+2014-11-25 17:49:13,828 - yingcai - INFO - enter: http://www.chinahr.com/ningde/jobs/10000/
+2014-11-25 17:49:13,858 - yingcai - WARNING - URL: http://www.chinahr.com/ningde/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,858 - yingcai - WARNING - fail: 23 | Stime: 3.0
+2014-11-25 17:49:13,858 - yingcai - INFO - enter: http://www.chinahr.com/guangxi/jobs/10000/
+2014-11-25 17:49:13,905 - yingcai - WARNING - URL: http://www.chinahr.com/guangxi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,905 - yingcai - WARNING - fail: 24 | Stime: 3.0
+2014-11-25 17:49:13,905 - yingcai - INFO - enter: http://www.chinahr.com/nanning/jobs/10000/
+2014-11-25 17:49:13,937 - yingcai - WARNING - URL: http://www.chinahr.com/nanning/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,937 - yingcai - WARNING - fail: 25 | Stime: 3.0
+2014-11-25 17:49:13,937 - yingcai - INFO - enter: http://www.chinahr.com/guangzhou/jobs/10000/
+2014-11-25 17:49:13,967 - yingcai - WARNING - URL: http://www.chinahr.com/guangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:13,967 - yingcai - WARNING - fail: 26 | Stime: 3.0
+2014-11-25 17:49:13,967 - yingcai - INFO - enter: http://www.chinahr.com/huizhou/jobs/10000/
+2014-11-25 17:49:14,000 - yingcai - WARNING - URL: http://www.chinahr.com/huizhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,000 - yingcai - WARNING - fail: 27 | Stime: 3.0
+2014-11-25 17:49:14,000 - yingcai - INFO - enter: http://www.chinahr.com/shantou/jobs/10000/
+2014-11-25 17:49:14,030 - yingcai - WARNING - URL: http://www.chinahr.com/shantou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,030 - yingcai - WARNING - fail: 28 | Stime: 3.0
+2014-11-25 17:49:14,030 - yingcai - INFO - enter: http://www.chinahr.com/zhongshan/jobs/10000/
+2014-11-25 17:49:14,062 - yingcai - WARNING - URL: http://www.chinahr.com/zhongshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,062 - yingcai - WARNING - fail: 29 | Stime: 3.0
+2014-11-25 17:49:14,062 - yingcai - INFO - enter: http://www.chinahr.com/foshan/jobs/10000/
+2014-11-25 17:49:14,108 - yingcai - WARNING - URL: http://www.chinahr.com/foshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,108 - yingcai - WARNING - fail: 30 | Stime: 3.0
+2014-11-25 17:49:14,108 - yingcai - INFO - enter: http://www.chinahr.com/shenzhen/jobs/10000/
+2014-11-25 17:49:14,140 - yingcai - WARNING - URL: http://www.chinahr.com/shenzhen/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,140 - yingcai - WARNING - fail: 31 | Stime: 3.0
+2014-11-25 17:49:14,140 - yingcai - INFO - enter: http://www.chinahr.com/zhuhai/jobs/10000/
+2014-11-25 17:49:14,171 - yingcai - WARNING - URL: http://www.chinahr.com/zhuhai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,171 - yingcai - WARNING - fail: 32 | Stime: 3.0
+2014-11-25 17:49:14,171 - yingcai - INFO - enter: http://www.chinahr.com/jiangmen/jobs/10000/
+2014-11-25 17:49:14,203 - yingcai - WARNING - URL: http://www.chinahr.com/jiangmen/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,203 - yingcai - WARNING - fail: 33 | Stime: 3.0
+2014-11-25 17:49:14,203 - yingcai - INFO - enter: http://www.chinahr.com/dongguan/jobs/10000/
+2014-11-25 17:49:14,233 - yingcai - WARNING - URL: http://www.chinahr.com/dongguan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,233 - yingcai - WARNING - fail: 34 | Stime: 3.0
+2014-11-25 17:49:14,233 - yingcai - INFO - enter: http://www.chinahr.com/shanwei/jobs/10000/
+2014-11-25 17:49:14,265 - yingcai - WARNING - URL: http://www.chinahr.com/shanwei/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,265 - yingcai - WARNING - fail: 35 | Stime: 3.0
+2014-11-25 17:49:14,280 - yingcai - INFO - enter: http://www.chinahr.com/jieyang/jobs/10000/
+2014-11-25 17:49:14,312 - yingcai - WARNING - URL: http://www.chinahr.com/jieyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,312 - yingcai - WARNING - fail: 36 | Stime: 3.0
+2014-11-25 17:49:14,312 - yingcai - INFO - enter: http://www.chinahr.com/meizhou/jobs/10000/
+2014-11-25 17:49:14,342 - yingcai - WARNING - URL: http://www.chinahr.com/meizhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,342 - yingcai - WARNING - fail: 37 | Stime: 3.0
+2014-11-25 17:49:14,342 - yingcai - INFO - enter: http://www.chinahr.com/yangjiang/jobs/10000/
+2014-11-25 17:49:14,375 - yingcai - WARNING - URL: http://www.chinahr.com/yangjiang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,375 - yingcai - WARNING - fail: 38 | Stime: 3.0
+2014-11-25 17:49:14,375 - yingcai - INFO - enter: http://www.chinahr.com/zhaoqing/jobs/10000/
+2014-11-25 17:49:14,405 - yingcai - WARNING - URL: http://www.chinahr.com/zhaoqing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,405 - yingcai - WARNING - fail: 39 | Stime: 3.0
+2014-11-25 17:49:14,405 - yingcai - INFO - enter: http://www.chinahr.com/zhusanjiao/jobs/10000/
+2014-11-25 17:49:14,437 - yingcai - WARNING - URL: http://www.chinahr.com/zhusanjiao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,437 - yingcai - WARNING - fail: 40 | Stime: 3.0
+2014-11-25 17:49:14,437 - yingcai - INFO - enter: http://www.chinahr.com/lanzhou/jobs/10000/
+2014-11-25 17:49:14,467 - yingcai - WARNING - URL: http://www.chinahr.com/lanzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,467 - yingcai - WARNING - fail: 41 | Stime: 3.0
+2014-11-25 17:49:14,483 - yingcai - INFO - enter: http://www.chinahr.com/guiyang/jobs/10000/
+2014-11-25 17:49:14,500 - yingcai - WARNING - URL: http://www.chinahr.com/guiyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,515 - yingcai - WARNING - fail: 42 | Stime: 3.0
+2014-11-25 17:49:14,515 - yingcai - INFO - enter: http://www.chinahr.com/haikou/jobs/10000/
+2014-11-25 17:49:14,546 - yingcai - WARNING - URL: http://www.chinahr.com/haikou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,546 - yingcai - WARNING - fail: 43 | Stime: 3.0
+2014-11-25 17:49:14,546 - yingcai - INFO - enter: http://www.chinahr.com/sanya/jobs/10000/
+2014-11-25 17:49:14,578 - yingcai - WARNING - URL: http://www.chinahr.com/sanya/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,578 - yingcai - WARNING - fail: 44 | Stime: 3.0
+2014-11-25 17:49:14,578 - yingcai - INFO - enter: http://www.chinahr.com/hebei/jobs/10000/
+2014-11-25 17:49:14,608 - yingcai - WARNING - URL: http://www.chinahr.com/hebei/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,608 - yingcai - WARNING - fail: 45 | Stime: 3.0
+2014-11-25 17:49:14,608 - yingcai - INFO - enter: http://www.chinahr.com/shijiazhuang/jobs/10000/
+2014-11-25 17:49:14,640 - yingcai - WARNING - URL: http://www.chinahr.com/shijiazhuang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,640 - yingcai - WARNING - fail: 46 | Stime: 3.0
+2014-11-25 17:49:14,640 - yingcai - INFO - enter: http://www.chinahr.com/baoding/jobs/10000/
+2014-11-25 17:49:14,687 - yingcai - WARNING - URL: http://www.chinahr.com/baoding/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,687 - yingcai - WARNING - fail: 47 | Stime: 3.0
+2014-11-25 17:49:14,687 - yingcai - INFO - enter: http://www.chinahr.com/cangzhou/jobs/10000/
+2014-11-25 17:49:14,717 - yingcai - WARNING - URL: http://www.chinahr.com/cangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,717 - yingcai - WARNING - fail: 48 | Stime: 3.0
+2014-11-25 17:49:14,717 - yingcai - INFO - enter: http://www.chinahr.com/chengde/jobs/10000/
+2014-11-25 17:49:14,750 - yingcai - WARNING - URL: http://www.chinahr.com/chengde/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,750 - yingcai - WARNING - fail: 49 | Stime: 3.0
+2014-11-25 17:49:14,750 - yingcai - INFO - enter: http://www.chinahr.com/handan/jobs/10000/
+2014-11-25 17:49:14,796 - yingcai - WARNING - URL: http://www.chinahr.com/handan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,796 - yingcai - WARNING - fail: 50 | Stime: 3.0
+2014-11-25 17:49:14,796 - yingcai - INFO - enter: http://www.chinahr.com/qinhuangdao/jobs/10000/
+2014-11-25 17:49:14,828 - yingcai - WARNING - URL: http://www.chinahr.com/qinhuangdao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,828 - yingcai - WARNING - fail: 51 | Stime: 3.0
+2014-11-25 17:49:14,828 - yingcai - INFO - enter: http://www.chinahr.com/tangshan/jobs/10000/
+2014-11-25 17:49:14,858 - yingcai - WARNING - URL: http://www.chinahr.com/tangshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,858 - yingcai - WARNING - fail: 52 | Stime: 3.0
+2014-11-25 17:49:14,858 - yingcai - INFO - enter: http://www.chinahr.com/xingtai/jobs/10000/
+2014-11-25 17:49:14,905 - yingcai - WARNING - URL: http://www.chinahr.com/xingtai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,905 - yingcai - WARNING - fail: 53 | Stime: 3.0
+2014-11-25 17:49:14,905 - yingcai - INFO - enter: http://www.chinahr.com/langfang/jobs/10000/
+2014-11-25 17:49:14,937 - yingcai - WARNING - URL: http://www.chinahr.com/langfang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,937 - yingcai - WARNING - fail: 54 | Stime: 3.0
+2014-11-25 17:49:14,937 - yingcai - INFO - enter: http://www.chinahr.com/hengshui/jobs/10000/
+2014-11-25 17:49:14,967 - yingcai - WARNING - URL: http://www.chinahr.com/hengshui/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:14,967 - yingcai - WARNING - fail: 55 | Stime: 3.0
+2014-11-25 17:49:14,967 - yingcai - INFO - enter: http://www.chinahr.com/haerbin/jobs/10000/
+2014-11-25 17:49:15,000 - yingcai - WARNING - URL: http://www.chinahr.com/haerbin/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,000 - yingcai - WARNING - fail: 56 | Stime: 3.0
+2014-11-25 17:49:15,000 - yingcai - INFO - enter: http://www.chinahr.com/zhengzhou/jobs/10000/
+2014-11-25 17:49:15,046 - yingcai - WARNING - URL: http://www.chinahr.com/zhengzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,046 - yingcai - WARNING - fail: 57 | Stime: 3.0
+2014-11-25 17:49:15,046 - yingcai - INFO - enter: http://www.chinahr.com/luoyang/jobs/10000/
+2014-11-25 17:49:15,078 - yingcai - WARNING - URL: http://www.chinahr.com/luoyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,078 - yingcai - WARNING - fail: 58 | Stime: 3.0
+2014-11-25 17:49:15,078 - yingcai - INFO - enter: http://www.chinahr.com/pingdingshan/jobs/10000/
+2014-11-25 17:49:15,108 - yingcai - WARNING - URL: http://www.chinahr.com/pingdingshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,108 - yingcai - WARNING - fail: 59 | Stime: 3.0
+2014-11-25 17:49:15,108 - yingcai - INFO - enter: http://www.chinahr.com/wuhan/jobs/10000/
+2014-11-25 17:49:15,140 - yingcai - WARNING - URL: http://www.chinahr.com/wuhan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,140 - yingcai - WARNING - fail: 60 | Stime: 3.0
+2014-11-25 17:49:15,140 - yingcai - INFO - enter: http://www.chinahr.com/jingzhou/jobs/10000/
+2014-11-25 17:49:15,171 - yingcai - WARNING - URL: http://www.chinahr.com/jingzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,171 - yingcai - WARNING - fail: 61 | Stime: 3.0
+2014-11-25 17:49:15,171 - yingcai - INFO - enter: http://www.chinahr.com/xiangyang/jobs/10000/
+2014-11-25 17:49:15,203 - yingcai - WARNING - URL: http://www.chinahr.com/xiangyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,203 - yingcai - WARNING - fail: 62 | Stime: 3.0
+2014-11-25 17:49:15,203 - yingcai - INFO - enter: http://www.chinahr.com/changsha/jobs/10000/
+2014-11-25 17:49:15,233 - yingcai - WARNING - URL: http://www.chinahr.com/changsha/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,233 - yingcai - WARNING - fail: 63 | Stime: 3.0
+2014-11-25 17:49:15,233 - yingcai - INFO - enter: http://www.chinahr.com/changde/jobs/10000/
+2014-11-25 17:49:15,280 - yingcai - WARNING - URL: http://www.chinahr.com/changde/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,280 - yingcai - WARNING - fail: 64 | Stime: 3.0
+2014-11-25 17:49:15,280 - yingcai - INFO - enter: http://www.chinahr.com/zhuzhou/jobs/10000/
+2014-11-25 17:49:15,312 - yingcai - WARNING - URL: http://www.chinahr.com/zhuzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,312 - yingcai - WARNING - fail: 65 | Stime: 3.0
+2014-11-25 17:49:15,312 - yingcai - INFO - enter: http://www.chinahr.com/nanchang/jobs/10000/
+2014-11-25 17:49:15,342 - yingcai - WARNING - URL: http://www.chinahr.com/nanchang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,342 - yingcai - WARNING - fail: 66 | Stime: 3.0
+2014-11-25 17:49:15,342 - yingcai - INFO - enter: http://www.chinahr.com/nanjing/jobs/10000/
+2014-11-25 17:49:15,390 - yingcai - WARNING - URL: http://www.chinahr.com/nanjing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,390 - yingcai - WARNING - fail: 67 | Stime: 3.0
+2014-11-25 17:49:15,390 - yingcai - INFO - enter: http://www.chinahr.com/suzhou/jobs/10000/
+2014-11-25 17:49:15,421 - yingcai - WARNING - URL: http://www.chinahr.com/suzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,421 - yingcai - WARNING - fail: 68 | Stime: 3.0
+2014-11-25 17:49:15,421 - yingcai - INFO - enter: http://www.chinahr.com/wuxi/jobs/10000/
+2014-11-25 17:49:15,453 - yingcai - WARNING - URL: http://www.chinahr.com/wuxi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,453 - yingcai - WARNING - fail: 69 | Stime: 3.0
+2014-11-25 17:49:15,453 - yingcai - INFO - enter: http://www.chinahr.com/changzhou/jobs/10000/
+2014-11-25 17:49:15,483 - yingcai - WARNING - URL: http://www.chinahr.com/changzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,483 - yingcai - WARNING - fail: 70 | Stime: 3.0
+2014-11-25 17:49:15,483 - yingcai - INFO - enter: http://www.chinahr.com/changchun/jobs/10000/
+2014-11-25 17:49:15,515 - yingcai - WARNING - URL: http://www.chinahr.com/changchun/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,515 - yingcai - WARNING - fail: 71 | Stime: 3.0
+2014-11-25 17:49:15,515 - yingcai - INFO - enter: http://www.chinahr.com/shenyang/jobs/10000/
+2014-11-25 17:49:15,562 - yingcai - WARNING - URL: http://www.chinahr.com/shenyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,562 - yingcai - WARNING - fail: 72 | Stime: 3.0
+2014-11-25 17:49:15,562 - yingcai - INFO - enter: http://www.chinahr.com/jinzhou/jobs/10000/
+2014-11-25 17:49:15,592 - yingcai - WARNING - URL: http://www.chinahr.com/jinzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,592 - yingcai - WARNING - fail: 73 | Stime: 3.0
+2014-11-25 17:49:15,592 - yingcai - INFO - enter: http://www.chinahr.com/dalian/jobs/10000/
+2014-11-25 17:49:15,625 - yingcai - WARNING - URL: http://www.chinahr.com/dalian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,625 - yingcai - WARNING - fail: 74 | Stime: 3.0
+2014-11-25 17:49:15,625 - yingcai - INFO - enter: http://www.chinahr.com/huhehaote/jobs/10000/
+2014-11-25 17:49:15,655 - yingcai - WARNING - URL: http://www.chinahr.com/huhehaote/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,655 - yingcai - WARNING - fail: 75 | Stime: 3.0
+2014-11-25 17:49:15,655 - yingcai - INFO - enter: http://www.chinahr.com/baotou/jobs/10000/
+2014-11-25 17:49:15,687 - yingcai - WARNING - URL: http://www.chinahr.com/baotou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,687 - yingcai - WARNING - fail: 76 | Stime: 3.0
+2014-11-25 17:49:15,687 - yingcai - INFO - enter: http://www.chinahr.com/eerduosi/jobs/10000/
+2014-11-25 17:49:15,717 - yingcai - WARNING - URL: http://www.chinahr.com/eerduosi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,717 - yingcai - WARNING - fail: 77 | Stime: 3.0
+2014-11-25 17:49:15,717 - yingcai - INFO - enter: http://www.chinahr.com/yinchuan/jobs/10000/
+2014-11-25 17:49:15,842 - yingcai - WARNING - URL: http://www.chinahr.com/yinchuan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,842 - yingcai - WARNING - fail: 78 | Stime: 3.0
+2014-11-25 17:49:15,842 - yingcai - INFO - enter: http://www.chinahr.com/xining/jobs/10000/
+2014-11-25 17:49:15,875 - yingcai - WARNING - URL: http://www.chinahr.com/xining/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,875 - yingcai - WARNING - fail: 79 | Stime: 3.0
+2014-11-25 17:49:15,875 - yingcai - INFO - enter: http://www.chinahr.com/shandong/jobs/10000/
+2014-11-25 17:49:15,905 - yingcai - WARNING - URL: http://www.chinahr.com/shandong/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,905 - yingcai - WARNING - fail: 80 | Stime: 3.0
+2014-11-25 17:49:15,905 - yingcai - INFO - enter: http://www.chinahr.com/jinan/jobs/10000/
+2014-11-25 17:49:15,937 - yingcai - WARNING - URL: http://www.chinahr.com/jinan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,937 - yingcai - WARNING - fail: 81 | Stime: 3.0
+2014-11-25 17:49:15,937 - yingcai - INFO - enter: http://www.chinahr.com/dezhou/jobs/10000/
+2014-11-25 17:49:15,967 - yingcai - WARNING - URL: http://www.chinahr.com/dezhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:15,967 - yingcai - WARNING - fail: 82 | Stime: 3.0
+2014-11-25 17:49:15,983 - yingcai - INFO - enter: http://www.chinahr.com/dongying/jobs/10000/
+2014-11-25 17:49:16,015 - yingcai - WARNING - URL: http://www.chinahr.com/dongying/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,015 - yingcai - WARNING - fail: 83 | Stime: 3.0
+2014-11-25 17:49:16,015 - yingcai - INFO - enter: http://www.chinahr.com/liaocheng/jobs/10000/
+2014-11-25 17:49:16,030 - yingcai - WARNING - URL: http://www.chinahr.com/liaocheng/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,046 - yingcai - WARNING - fail: 84 | Stime: 3.0
+2014-11-25 17:49:16,046 - yingcai - INFO - enter: http://www.chinahr.com/linyi/jobs/10000/
+2014-11-25 17:49:16,078 - yingcai - WARNING - URL: http://www.chinahr.com/linyi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,078 - yingcai - WARNING - fail: 85 | Stime: 3.0
+2014-11-25 17:49:16,078 - yingcai - INFO - enter: http://www.chinahr.com/taian/jobs/10000/
+2014-11-25 17:49:16,108 - yingcai - WARNING - URL: http://www.chinahr.com/taian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,108 - yingcai - WARNING - fail: 86 | Stime: 3.0
+2014-11-25 17:49:16,108 - yingcai - INFO - enter: http://www.chinahr.com/weihai/jobs/10000/
+2014-11-25 17:49:16,155 - yingcai - WARNING - URL: http://www.chinahr.com/weihai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,155 - yingcai - WARNING - fail: 87 | Stime: 3.0
+2014-11-25 17:49:16,155 - yingcai - INFO - enter: http://www.chinahr.com/zibo/jobs/10000/
+2014-11-25 17:49:16,187 - yingcai - WARNING - URL: http://www.chinahr.com/zibo/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,187 - yingcai - WARNING - fail: 88 | Stime: 3.0
+2014-11-25 17:49:16,187 - yingcai - INFO - enter: http://www.chinahr.com/weifang/jobs/10000/
+2014-11-25 17:49:16,217 - yingcai - WARNING - URL: http://www.chinahr.com/weifang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,217 - yingcai - WARNING - fail: 89 | Stime: 3.0
+2014-11-25 17:49:16,217 - yingcai - INFO - enter: http://www.chinahr.com/yantai/jobs/10000/
+2014-11-25 17:49:16,250 - yingcai - WARNING - URL: http://www.chinahr.com/yantai/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,250 - yingcai - WARNING - fail: 90 | Stime: 3.0
+2014-11-25 17:49:16,250 - yingcai - INFO - enter: http://www.chinahr.com/qingdao/jobs/10000/
+2014-11-25 17:49:16,280 - yingcai - WARNING - URL: http://www.chinahr.com/qingdao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,280 - yingcai - WARNING - fail: 91 | Stime: 3.0
+2014-11-25 17:49:16,280 - yingcai - INFO - enter: http://www.chinahr.com/jining/jobs/10000/
+2014-11-25 17:49:16,312 - yingcai - WARNING - URL: http://www.chinahr.com/jining/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,312 - yingcai - WARNING - fail: 92 | Stime: 3.0
+2014-11-25 17:49:16,312 - yingcai - INFO - enter: http://www.chinahr.com/rizhao/jobs/10000/
+2014-11-25 17:49:16,342 - yingcai - WARNING - URL: http://www.chinahr.com/rizhao/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,342 - yingcai - WARNING - fail: 93 | Stime: 3.0
+2014-11-25 17:49:16,342 - yingcai - INFO - enter: http://www.chinahr.com/binzhou/jobs/10000/
+2014-11-25 17:49:16,390 - yingcai - WARNING - URL: http://www.chinahr.com/binzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,390 - yingcai - WARNING - fail: 94 | Stime: 3.0
+2014-11-25 17:49:16,390 - yingcai - INFO - enter: http://www.chinahr.com/zaozhuang/jobs/10000/
+2014-11-25 17:49:16,421 - yingcai - WARNING - URL: http://www.chinahr.com/zaozhuang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,421 - yingcai - WARNING - fail: 95 | Stime: 3.0
+2014-11-25 17:49:16,421 - yingcai - INFO - enter: http://www.chinahr.com/heze/jobs/10000/
+2014-11-25 17:49:16,453 - yingcai - WARNING - URL: http://www.chinahr.com/heze/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,453 - yingcai - WARNING - fail: 96 | Stime: 3.0
+2014-11-25 17:49:16,453 - yingcai - INFO - enter: http://www.chinahr.com/taiyuan/jobs/10000/
+2014-11-25 17:49:16,483 - yingcai - WARNING - URL: http://www.chinahr.com/taiyuan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,483 - yingcai - WARNING - fail: 97 | Stime: 3.0
+2014-11-25 17:49:16,483 - yingcai - INFO - enter: http://www.chinahr.com/datong/jobs/10000/
+2014-11-25 17:49:16,530 - yingcai - WARNING - URL: http://www.chinahr.com/datong/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,530 - yingcai - WARNING - fail: 98 | Stime: 3.0
+2014-11-25 17:49:16,530 - yingcai - INFO - enter: http://www.chinahr.com/yuncheng/jobs/10000/
+2014-11-25 17:49:16,562 - yingcai - WARNING - URL: http://www.chinahr.com/yuncheng/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,562 - yingcai - WARNING - fail: 99 | Stime: 3.0
+2014-11-25 17:49:16,562 - yingcai - INFO - enter: http://www.chinahr.com/xian/jobs/10000/
+2014-11-25 17:49:16,592 - yingcai - WARNING - URL: http://www.chinahr.com/xian/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,592 - yingcai - WARNING - fail: 100 | Stime: 3.0
+2014-11-25 17:49:16,592 - yingcai - INFO - enter: http://www.chinahr.com/chengdu/jobs/10000/
+2014-11-25 17:49:16,625 - yingcai - WARNING - URL: http://www.chinahr.com/chengdu/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,625 - yingcai - WARNING - fail: 101 | Stime: 3.0
+2014-11-25 17:49:16,640 - yingcai - INFO - enter: http://www.chinahr.com/leshan/jobs/10000/
+2014-11-25 17:49:16,671 - yingcai - WARNING - URL: http://www.chinahr.com/leshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,671 - yingcai - WARNING - fail: 102 | Stime: 3.0
+2014-11-25 17:49:16,671 - yingcai - INFO - enter: http://www.chinahr.com/mianyang/jobs/10000/
+2014-11-25 17:49:16,703 - yingcai - WARNING - URL: http://www.chinahr.com/mianyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,703 - yingcai - WARNING - fail: 103 | Stime: 3.0
+2014-11-25 17:49:16,703 - yingcai - INFO - enter: http://www.chinahr.com/nanchong/jobs/10000/
+2014-11-25 17:49:16,733 - yingcai - WARNING - URL: http://www.chinahr.com/nanchong/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,733 - yingcai - WARNING - fail: 104 | Stime: 3.0
+2014-11-25 17:49:16,733 - yingcai - INFO - enter: http://www.chinahr.com/luzhou/jobs/10000/
+2014-11-25 17:49:16,765 - yingcai - WARNING - URL: http://www.chinahr.com/luzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,765 - yingcai - WARNING - fail: 105 | Stime: 3.0
+2014-11-25 17:49:16,765 - yingcai - INFO - enter: http://www.chinahr.com/dazhou/jobs/10000/
+2014-11-25 17:49:16,796 - yingcai - WARNING - URL: http://www.chinahr.com/dazhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,796 - yingcai - WARNING - fail: 106 | Stime: 3.0
+2014-11-25 17:49:16,796 - yingcai - INFO - enter: http://www.chinahr.com/yibin/jobs/10000/
+2014-11-25 17:49:16,828 - yingcai - WARNING - URL: http://www.chinahr.com/yibin/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,828 - yingcai - WARNING - fail: 107 | Stime: 3.0
+2014-11-25 17:49:16,842 - yingcai - INFO - enter: http://www.chinahr.com/deyang/jobs/10000/
+2014-11-25 17:49:16,858 - yingcai - WARNING - URL: http://www.chinahr.com/deyang/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,858 - yingcai - WARNING - fail: 108 | Stime: 3.0
+2014-11-25 17:49:16,858 - yingcai - INFO - enter: http://www.chinahr.com/lasa/jobs/10000/
+2014-11-25 17:49:16,905 - yingcai - WARNING - URL: http://www.chinahr.com/lasa/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,905 - yingcai - WARNING - fail: 109 | Stime: 3.0
+2014-11-25 17:49:16,905 - yingcai - INFO - enter: http://www.chinahr.com/wulumuqi/jobs/10000/
+2014-11-25 17:49:16,921 - yingcai - WARNING - URL: http://www.chinahr.com/wulumuqi/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,921 - yingcai - WARNING - fail: 110 | Stime: 3.0
+2014-11-25 17:49:16,921 - yingcai - INFO - enter: http://www.chinahr.com/kunming/jobs/10000/
+2014-11-25 17:49:16,953 - yingcai - WARNING - URL: http://www.chinahr.com/kunming/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:16,967 - yingcai - WARNING - fail: 111 | Stime: 3.0
+2014-11-25 17:49:16,967 - yingcai - INFO - enter: http://www.chinahr.com/hangzhou/jobs/10000/
+2014-11-25 17:49:17,000 - yingcai - WARNING - URL: http://www.chinahr.com/hangzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,000 - yingcai - WARNING - fail: 112 | Stime: 3.0
+2014-11-25 17:49:17,015 - yingcai - INFO - enter: http://www.chinahr.com/lishui/jobs/10000/
+2014-11-25 17:49:17,030 - yingcai - WARNING - URL: http://www.chinahr.com/lishui/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,030 - yingcai - WARNING - fail: 113 | Stime: 3.0
+2014-11-25 17:49:17,046 - yingcai - INFO - enter: http://www.chinahr.com/jinhua/jobs/10000/
+2014-11-25 17:49:17,078 - yingcai - WARNING - URL: http://www.chinahr.com/jinhua/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,078 - yingcai - WARNING - fail: 114 | Stime: 3.0
+2014-11-25 17:49:17,078 - yingcai - INFO - enter: http://www.chinahr.com/ningbo/jobs/10000/
+2014-11-25 17:49:17,108 - yingcai - WARNING - URL: http://www.chinahr.com/ningbo/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,108 - yingcai - WARNING - fail: 115 | Stime: 3.0
+2014-11-25 17:49:17,108 - yingcai - INFO - enter: http://www.chinahr.com/shaoxing/jobs/10000/
+2014-11-25 17:49:17,140 - yingcai - WARNING - URL: http://www.chinahr.com/shaoxing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,140 - yingcai - WARNING - fail: 116 | Stime: 3.0
+2014-11-25 17:49:17,140 - yingcai - INFO - enter: http://www.chinahr.com/wenzhou/jobs/10000/
+2014-11-25 17:49:17,187 - yingcai - WARNING - URL: http://www.chinahr.com/wenzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,187 - yingcai - WARNING - fail: 117 | Stime: 3.0
+2014-11-25 17:49:17,187 - yingcai - INFO - enter: http://www.chinahr.com/jiaxing/jobs/10000/
+2014-11-25 17:49:17,217 - yingcai - WARNING - URL: http://www.chinahr.com/jiaxing/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,217 - yingcai - WARNING - fail: 118 | Stime: 3.0
+2014-11-25 17:49:17,217 - yingcai - INFO - enter: http://www.chinahr.com/huzhou/jobs/10000/
+2014-11-25 17:49:17,250 - yingcai - WARNING - URL: http://www.chinahr.com/huzhou/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:49:17,250 - yingcai - WARNING - fail: 119 | Stime: 3.0
+2014-11-25 17:49:45,483 - yingcai - INFO - auto: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:49:45,483 - yingcai - WARNING - BEGIN USING ATUO generator!
+2014-11-25 17:49:45,483 - yingcai - INFO - enter: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:49:51,750 - yingcai - WARNING - URL: http://www.chinahr.com/shanghai/jobs/10000/ | info: bad requests:requests.exceptions.Timeout'>
+2014-11-25 17:49:51,750 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:49:51,750 - yingcai - INFO - enter: http://www.chinahr.com/beijing/jobs/10000/
+2014-11-25 17:49:54,030 - yingcai - INFO - enter: http://www.chinahr.com/tianjin/jobs/10000/
+2014-11-25 17:50:12,625 - yingcai - WARNING - URL: http://www.chinahr.com/tianjin/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:50:12,625 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:50:12,625 - yingcai - INFO - enter: http://www.chinahr.com/quanguo/jobs/10000/
+2014-11-25 17:50:25,328 - yingcai - WARNING - URL: http://www.chinahr.com/quanguo/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:50:25,328 - yingcai - WARNING - fail: 2 | Stime: 3.0
+2014-11-25 17:50:25,328 - yingcai - INFO - enter: http://www.chinahr.com/hefei/jobs/10000/
+2014-11-25 17:50:27,390 - yingcai - INFO - enter: http://www.chinahr.com/wuhu/jobs/10000/
+2014-11-25 17:50:29,203 - yingcai - INFO - enter: http://www.chinahr.com/anqing/jobs/10000/
+2014-11-25 17:50:56,858 - yingcai - INFO - auto: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:50:56,858 - yingcai - WARNING - BEGIN USING ATUO generator!
+2014-11-25 17:50:56,858 - yingcai - INFO - enter: http://www.chinahr.com/shanghai/jobs/10000/
+2014-11-25 17:50:59,562 - yingcai - INFO - enter: http://www.chinahr.com/beijing/jobs/10000/
+2014-11-25 17:51:10,530 - yingcai - WARNING - URL: http://www.chinahr.com/beijing/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:51:10,530 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:51:10,530 - yingcai - INFO - enter: http://www.chinahr.com/tianjin/jobs/10000/
+2014-11-25 17:51:12,358 - yingcai - INFO - enter: http://www.chinahr.com/quanguo/jobs/10000/
+2014-11-25 17:51:13,890 - yingcai - INFO - enter: http://www.chinahr.com/hefei/jobs/10000/
+2014-11-25 17:51:17,515 - yingcai - INFO - enter: http://www.chinahr.com/wuhu/jobs/10000/
+2014-11-25 17:51:20,155 - yingcai - INFO - enter: http://www.chinahr.com/anqing/jobs/10000/
+2014-11-25 17:51:22,062 - yingcai - INFO - enter: http://www.chinahr.com/bengbu/jobs/10000/
+2014-11-25 17:51:31,500 - yingcai - WARNING - URL: http://www.chinahr.com/bengbu/jobs/10000/ | info: bad requests:requests.exceptions.Timeout'>
+2014-11-25 17:51:31,500 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:51:31,500 - yingcai - INFO - enter: http://www.chinahr.com/tongling/jobs/10000/
+2014-11-25 17:51:40,937 - yingcai - WARNING - URL: http://www.chinahr.com/tongling/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:51:40,937 - yingcai - WARNING - fail: 2 | Stime: 3.0
+2014-11-25 17:51:40,953 - yingcai - INFO - enter: http://www.chinahr.com/luan/jobs/10000/
+2014-11-25 17:51:43,280 - yingcai - INFO - enter: http://www.chinahr.com/chaohu/jobs/10000/
+2014-11-25 17:51:45,562 - yingcai - INFO - enter: http://www.chinahr.com/chuzhou/jobs/10000/
+2014-11-25 17:51:47,187 - yingcai - INFO - enter: http://www.chinahr.com/huainan/jobs/10000/
+2014-11-25 17:51:49,578 - yingcai - INFO - enter: http://www.chinahr.com/maanshan/jobs/10000/
+2014-11-25 17:52:10,000 - yingcai - WARNING - URL: http://www.chinahr.com/maanshan/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:52:10,000 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:52:10,000 - yingcai - INFO - enter: http://www.chinahr.com/fujian/jobs/10000/
+2014-11-25 17:52:15,562 - yingcai - INFO - enter: http://www.chinahr.com/fuzhou/jobs/10000/
+2014-11-25 17:52:19,921 - yingcai - INFO - enter: http://www.chinahr.com/xiamen/jobs/10000/
+2014-11-25 17:52:23,655 - yingcai - INFO - enter: http://www.chinahr.com/longyan/jobs/10000/
+2014-11-25 17:52:44,203 - yingcai - WARNING - URL: http://www.chinahr.com/longyan/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:52:44,203 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:52:44,203 - yingcai - INFO - enter: http://www.chinahr.com/nanping/jobs/10000/
+2014-11-25 17:52:49,780 - yingcai - INFO - enter: http://www.chinahr.com/quanzhou/jobs/10000/
+2014-11-25 17:52:54,625 - yingcai - INFO - enter: http://www.chinahr.com/sanming/jobs/10000/
+2014-11-25 17:53:04,390 - yingcai - WARNING - URL: http://www.chinahr.com/sanming/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:53:04,390 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:53:04,405 - yingcai - INFO - enter: http://www.chinahr.com/zhangzhou/jobs/10000/
+2014-11-25 17:53:14,640 - yingcai - WARNING - URL: http://www.chinahr.com/zhangzhou/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:53:14,640 - yingcai - WARNING - fail: 2 | Stime: 3.0
+2014-11-25 17:53:14,640 - yingcai - INFO - enter: http://www.chinahr.com/ningde/jobs/10000/
+2014-11-25 17:53:16,015 - yingcai - INFO - enter: http://www.chinahr.com/guangxi/jobs/10000/
+2014-11-25 17:53:18,030 - yingcai - INFO - enter: http://www.chinahr.com/nanning/jobs/10000/
+2014-11-25 17:53:20,467 - yingcai - INFO - enter: http://www.chinahr.com/guangzhou/jobs/10000/
+2014-11-25 17:53:24,671 - yingcai - INFO - enter: http://www.chinahr.com/huizhou/jobs/10000/
+2014-11-25 17:53:37,530 - yingcai - WARNING - URL: http://www.chinahr.com/huizhou/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:53:37,530 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:53:37,530 - yingcai - INFO - enter: http://www.chinahr.com/shantou/jobs/10000/
+2014-11-25 17:53:40,328 - yingcai - INFO - enter: http://www.chinahr.com/zhongshan/jobs/10000/
+2014-11-25 17:54:09,905 - yingcai - WARNING - URL: http://www.chinahr.com/zhongshan/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:54:09,905 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:54:09,905 - yingcai - INFO - enter: http://www.chinahr.com/foshan/jobs/10000/
+2014-11-25 17:54:15,328 - yingcai - WARNING - URL: http://www.chinahr.com/foshan/jobs/10000/ | info: bad requests:requests.exceptions.ConnectionError'>
+2014-11-25 17:54:15,328 - yingcai - WARNING - fail: 2 | Stime: 3.0
+2014-11-25 17:54:15,328 - yingcai - INFO - enter: http://www.chinahr.com/shenzhen/jobs/10000/
+2014-11-25 17:54:16,625 - yingcai - INFO - enter: http://www.chinahr.com/zhuhai/jobs/10000/
+2014-11-25 17:54:20,358 - yingcai - INFO - enter: http://www.chinahr.com/jiangmen/jobs/10000/
+2014-11-25 17:54:23,562 - yingcai - INFO - enter: http://www.chinahr.com/dongguan/jobs/10000/
+2014-11-25 17:54:26,750 - yingcai - INFO - enter: http://www.chinahr.com/shanwei/jobs/10000/
+2014-11-25 17:54:35,203 - yingcai - WARNING - URL: http://www.chinahr.com/shanwei/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:54:35,203 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:54:35,203 - yingcai - INFO - enter: http://www.chinahr.com/jieyang/jobs/10000/
+2014-11-25 17:54:36,467 - yingcai - INFO - enter: http://www.chinahr.com/meizhou/jobs/10000/
+2014-11-25 17:54:56,187 - yingcai - WARNING - URL: http://www.chinahr.com/meizhou/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:54:56,187 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:54:56,187 - yingcai - INFO - enter: http://www.chinahr.com/yangjiang/jobs/10000/
+2014-11-25 17:55:01,375 - yingcai - INFO - enter: http://www.chinahr.com/zhaoqing/jobs/10000/
+2014-11-25 17:55:04,171 - yingcai - INFO - enter: http://www.chinahr.com/zhusanjiao/jobs/10000/
+2014-11-25 17:55:08,140 - yingcai - INFO - enter: http://www.chinahr.com/lanzhou/jobs/10000/
+2014-11-25 17:55:12,890 - yingcai - INFO - enter: http://www.chinahr.com/guiyang/jobs/10000/
+2014-11-25 17:55:23,467 - yingcai - WARNING - URL: http://www.chinahr.com/guiyang/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:55:23,467 - yingcai - WARNING - fail: 1 | Stime: 3.0
+2014-11-25 17:55:23,467 - yingcai - INFO - enter: http://www.chinahr.com/haikou/jobs/10000/
+2014-11-25 17:55:31,483 - yingcai - WARNING - URL: http://www.chinahr.com/haikou/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:55:31,483 - yingcai - WARNING - fail: 2 | Stime: 3.0
+2014-11-25 17:55:31,483 - yingcai - INFO - enter: http://www.chinahr.com/sanya/jobs/10000/
+2014-11-25 17:55:39,217 - yingcai - WARNING - URL: http://www.chinahr.com/sanya/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:55:39,217 - yingcai - WARNING - fail: 3 | Stime: 3.0
+2014-11-25 17:55:39,217 - yingcai - INFO - enter: http://www.chinahr.com/hebei/jobs/10000/
+2014-11-25 17:55:46,328 - yingcai - WARNING - URL: http://www.chinahr.com/hebei/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:55:46,328 - yingcai - WARNING - fail: 4 | Stime: 3.0
+2014-11-25 17:55:46,328 - yingcai - INFO - enter: http://www.chinahr.com/shijiazhuang/jobs/10000/
+2014-11-25 17:55:53,280 - yingcai - WARNING - URL: http://www.chinahr.com/shijiazhuang/jobs/10000/ | info: bad requests:socket.timeout'>
+2014-11-25 17:55:53,280 - yingcai - WARNING - fail: 5 | Stime: 3.0
+2014-11-25 17:55:53,280 - yingcai - INFO - enter: http://www.chinahr.com/baoding/jobs/10000/
+2014-11-25 17:55:58,671 - yingcai - WARNING - URL: http://www.chinahr.com/baoding/jobs/10000/ | info: bad requests:requests.exceptions.Timeout'>
+2014-11-25 17:55:58,671 - yingcai - WARNING - fail: 6 | Stime: 3.0
+2014-11-25 17:55:58,671 - yingcai - INFO - enter: http://www.chinahr.com/cangzhou/jobs/10000/
+2014-11-25 17:56:01,187 - yingcai - INFO - enter: http://www.chinahr.com/chengde/jobs/10000/
+2014-12-01 13:15:21,342 - yingcai - INFO - auto: http://www.chinahr.com/shanghai/jobs/10000/
+2014-12-01 13:15:21,357 - yingcai - WARNING - BEGIN USING ATUO generator!
+2014-12-01 13:15:21,357 - yingcai - INFO - enter: http://www.chinahr.com/shanghai/jobs/10000/
+2014-12-01 13:15:24,497 - yingcai - INFO - enter: http://www.chinahr.com/beijing/jobs/10000/
+2014-12-01 13:15:27,638 - yingcai - INFO - enter: http://www.chinahr.com/tianjin/jobs/10000/
+2014-12-01 13:15:30,607 - yingcai - INFO - enter: http://www.chinahr.com/quanguo/jobs/10000/
+2014-12-01 13:15:32,747 - yingcai - INFO - enter: http://www.chinahr.com/hefei/jobs/10000/
+2014-12-01 13:15:35,013 - yingcai - INFO - enter: http://www.chinahr.com/wuhu/jobs/10000/
+2014-12-01 13:15:38,217 - yingcai - INFO - enter: http://www.chinahr.com/anqing/jobs/10000/
+2014-12-01 13:15:40,795 - yingcai - INFO - enter: http://www.chinahr.com/bengbu/jobs/10000/
+2014-12-01 13:15:43,029 - yingcai - INFO - enter: http://www.chinahr.com/tongling/jobs/10000/
+2014-12-01 13:15:44,404 - yingcai - INFO - enter: http://www.chinahr.com/luan/jobs/10000/
+2014-12-01 13:15:47,763 - yingcai - INFO - enter: http://www.chinahr.com/chaohu/jobs/10000/
+2014-12-01 13:15:50,450 - yingcai - INFO - enter: http://www.chinahr.com/chuzhou/jobs/10000/
+2014-12-01 13:15:52,372 - yingcai - INFO - enter: http://www.chinahr.com/huainan/jobs/10000/
+2014-12-01 13:15:54,920 - yingcai - INFO - enter: http://www.chinahr.com/maanshan/jobs/10000/
+2014-12-01 13:15:56,170 - yingcai - INFO - enter: http://www.chinahr.com/fujian/jobs/10000/
+2014-12-01 13:16:00,029 - yingcai - INFO - enter: http://www.chinahr.com/fuzhou/jobs/10000/
+2014-12-01 13:16:02,638 - yingcai - INFO - enter: http://www.chinahr.com/xiamen/jobs/10000/
+2014-12-01 13:16:04,013 - yingcai - INFO - enter: http://www.chinahr.com/longyan/jobs/10000/
+2014-12-01 13:16:07,045 - yingcai - INFO - enter: http://www.chinahr.com/nanping/jobs/10000/

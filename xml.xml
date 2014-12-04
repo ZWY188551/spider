@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name=51job sleeptime=0.0>
+	<urlpattern id=0>
+		<pattern>http://search.51job.com/jobsearch/advance_search.php?stype=2</pattern>
+		<model></model>
+		<args></args>
+	</urlpattern>
+	<urlpattern id=1>
+		<pattern>http://search.51job.com/jobsearch/advance_search.php\?stype=2</pattern>
+		<model>enter</model>
+		<args>{"loc": {"table  id=\"typeSearchTbl2\" style=\"display:none;\" width=\"100%\"": "div class=\"grayline\" id=\"announcementbody\""}}</args>
+	</urlpattern>
+	<urlpattern id=2>
+		<pattern>http://search.51job.com/list/(.*)html.lang=c(.)fromType=18</pattern>
+		<model>enter</model>
+		<args>{"loc": {"table id=\"resultList\" class=\"resultList resultListWide\"": "img src=\"http://img01.51jobcdn.com/im/2009/search/top.gif\" align=\"absmiddle\""}}</args>
+	</urlpattern>
+	<urlpattern id=3>
+		<pattern>http://search.51job.com/job/(\d{8}),c\.html</pattern>
+		<model>need</model>
+		<args>{"ctg":"job"}</args>
+	</urlpattern>
+	<urlpattern id=4>
+		<pattern>http://search.51job.com/list/co(.*)c(.*)html</pattern>
+		<model>need</model>
+		<args>{"ctg":"company"}</args>
+	</urlpattern>
+	<urlpattern id=5>
+		<pattern>http://search.51job.com/list/(.*)%252C00,000000,0000,00,3,99,%2B,2,(\d*).html\?lang=c&amp;stype=1&amp;postchannel=0000(.*)fromType=18</pattern>
+		<model>auto</model>
+		<args>{"loc": {"table id=\"resultList\" class=\"resultList resultListWide\"": "div class=\"bt_center clearboth\""},"replace":[2,2001],"between": ["%2B,2,",".html"],"submodel":"enter"}</args>
+	</urlpattern>
+</project>
+<project name=zhaopin sleeptime=0.0>
+	<urlpattern id=0>
+		<pattern>http://sou.zhaopin.com/jobs/searchresult.ashx?jl=530</pattern>
+		<model></model>
+		<args></args>
+	</urlpattern>
+    <urlpattern id=1>
+        <pattern>http://sou.zhaopin.com/jobs/searchresult.ashx\?jl=(\d*)$</pattern>
+        <model>auto</model>
+        <args>{"loc": {"div class=\"search-result-cont\"": "li class=\"clearfix\"","div class=\"newlist_list\" id=\"newlist_list_div\"": "input type=\"hidden\" name=\"h_job_id\" value="},"replace":[530,10200],"between": ["jl=",""],"submodel":"enter"}</args>
+    </urlpattern>
+	<urlpattern id=2>
+		<pattern>http://jobs.zhaopin.com/(.*).htm\?ssidkey=y(.*)ff=03</pattern>
+		<model>need</model>
+		<args>{"ctg":"job"}</args>
+	</urlpattern>
+	<urlpattern id=3>
+		<pattern>http://company.zhaopin.com/(.*).htm</pattern>
+		<model>need</model>
+		<args>{"ctg":"company"}</args>
+	</urlpattern>
+	<urlpattern id=4>
+		<pattern>http://special.zhaopin.com/(.*)</pattern>
+		<model>need</model>
+		<args>{"ctg":"company"}</args>
+	</urlpattern>
+	<urlpattern id=5>
+		<pattern>http://sou.zhaopin.com/jobs/searchresult.ashx\?jl=(\d{3})&amp;sg=(.*)&amp;p=(\d*)$</pattern>
+		<model>auto</model>
+		<args>{"loc": {"div class=\"search-result-cont\"":"div class=\"pagesDown\""},"replace":[2,90],"between": ["&amp;p=",""],"submodel":"enter"}</args>
+	</urlpattern>
+</project>
+<project name=yingcai sleeptime=3>
+    <urlpattern id=0>
+        <pattern>http://www.chinahr.com/shanghai/jobs/10000/</pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=1>
+        <pattern>http://www.chinahr.com/(.*)/jobs/10000/$</pattern>
+        <model>auto</model>
+        <args>{"loc": {"div class=\"joblist_table font_444444_12\" id=\"joblist_table\"": "div class=\"tc-search-send-email\" id=\"sendmaildiv\""},"between":["com/","/job"],"replace":["shanghai", "beijing", "tianjin", "quanguo", "hefei", "wuhu", "anqing", "bengbu", "tongling", "luan", "chaohu", "chuzhou", "huainan", "maanshan", "fujian", "fuzhou", "xiamen", "longyan", "nanping", "quanzhou", "sanming", "zhangzhou", "ningde", "guangxi", "nanning", "guangzhou", "huizhou", "shantou", "zhongshan", "foshan", "shenzhen", "zhuhai", "jiangmen", "dongguan", "shanwei", "jieyang", "meizhou", "yangjiang", "zhaoqing", "zhusanjiao", "lanzhou", "guiyang", "haikou", "sanya", "hebei", "shijiazhuang", "baoding", "cangzhou", "chengde", "handan", "qinhuangdao", "tangshan", "xingtai", "langfang", "hengshui", "haerbin", "zhengzhou", "luoyang", "pingdingshan", "wuhan", "jingzhou", "xiangyang", "changsha", "changde", "zhuzhou", "nanchang", "nanjing", "suzhou", "wuxi", "changzhou", "changchun", "shenyang", "jinzhou", "dalian", "huhehaote", "baotou", "eerduosi", "yinchuan", "xining", "shandong", "jinan", "dezhou", "dongying", "liaocheng", "linyi", "taian", "weihai", "zibo", "weifang", "yantai", "qingdao", "jining", "rizhao", "binzhou", "zaozhuang", "heze", "taiyuan", "datong", "yuncheng", "xian", "chengdu", "leshan", "mianyang", "nanchong", "luzhou", "dazhou", "yibin", "deyang", "lasa", "wulumuqi", "kunming", "hangzhou", "lishui", "jinhua", "ningbo", "shaoxing", "wenzhou", "jiaxing", "huzhou"],"submodel":"enter"}</args>
+    </urlpattern>
+    <urlpattern id=2>
+        <pattern>http://www.chinahr.com/job/(.*).html</pattern>
+        <model>need</model>
+        <args>{"ctg":"job"}</args>
+ 	</urlpattern>
+    <urlpattern id=3>
+        <pattern>http://www.chinahr.com/company/(.*).html</pattern>
+        <model>need</model>
+        <args>{"ctg":"company"}</args>
+	</urlpattern>
+	<urlpattern id=4>
+        <pattern>http://www.chinahr.com/(.*)/jobs/10000/(\d*)/$</pattern>
+        <model>auto</model>
+        <args>{"loc": {"div class=\"joblist_table font_444444_12\" id=\"joblist_table\"": "div class=\"tc-search-send-email\" id=\"sendmaildiv\""},"between":["10000/",""],"replace":[2,300],"submodel":"enter"}</args>
+ 	</urlpattern>
+</project>
+<project name=cjob>
+    <urlpattern id=0>
+        <pattern>http://www.cjob.gov.cn/search.html\?AAB004=&amp;AAB019=&amp;AAB020=&amp;AAB022=&amp;ACB239=&amp;ACB228=&amp;AAC011=&amp;TYPE=4&amp;orderType=aae396&amp;zcType=&amp;pageNo=1&amp;AREA=&amp;AREA_name=&amp;ACA111=&amp;ACA111_name=&amp;AAE397=&amp;ACB241=</pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=1>
+        <pattern>http://www.cjob.gov.cn/search.html\?(.*)pageNo=(\d*)(.*)ACB241</pattern>
+        <model>auto</model>
+        <args>{"loc":["a href=\"javascript:_gotoPage(2)\" class=\"left pageright\" title","function _gotoPage(pageNo)"]}</args>
+    </urlpattern>
+    <urlpattern id=2>
+        <pattern></pattern>
+        <model>need</model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=3>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+</project>
+<project name=bjrc>
+    <urlpattern id=0>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=1>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+    </urlpattern>
+    <urlpattern id=2>
+        <pattern></pattern>
+        <model>need</model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=3>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+</project>
+<project name=bjrc>
+    <urlpattern id=0>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=1>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+    </urlpattern>
+    <urlpattern id=2>
+        <pattern></pattern>
+        <model>need</model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=3>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+</project>
+<project name=bjrc>
+    <urlpattern id=0>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=1>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+    </urlpattern>
+    <urlpattern id=2>
+        <pattern></pattern>
+        <model>need</model>
+        <args></args>
+ 	</urlpattern>
+    <urlpattern id=3>
+        <pattern></pattern>
+        <model></model>
+        <args></args>
+ 	</urlpattern>
+</project>
